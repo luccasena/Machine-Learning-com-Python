@@ -1,0 +1,1001 @@
+﻿nome_paciente,idade,sexo,tabagismo,descoloracao_dedos,estresse_mental,exposicao_poluicao,doenca_cronica,nivel_energia,fraqueza_imunologica,problema_respiratorio,consumo_alcool,desconforto_garganta,saturacao_oxigenio,aperto_peito,historico_familiar,historico_tabagismo_familiar,estresse_imunologico,doenca_pulmonar,peso_kg,altura_m,imc,risco_cancer_pulmao
+Ana Silva,54,Feminino,Não,Não,Baixo,Baixa,Sim,Alto,Não,Não,Sim,Não,96.7,Não,Não,Sim,Baixo,Não,38.8,1.79,12.1,Sem Risco
+Mariana Lima,38,Masculino,Não,Não,Moderado,Média,Sim,Moderado,Não,Sim,Não,Não,,Não,Não,Sim,Moderado,Não,77.8,1.6,30.4,Sem Risco
+Tiago Barbosa,50,Masculino,Não,Não,Alto,Média,Não,Alto,Não,Não,Sim,Não,92.1,Sim,Não,Não,Baixo,Não,57.8,1.62,22.0,Sem Risco
+Carlos Alves,56,Masculino,Não,Não,Baixo,Baixa,Sim,Alto,Não,Não,Sim,Não,99.2,Não,Não,Não,Alto,Não,83.4,1.64,31.0,Sem Risco
+Paula Costa,18,Não declarado,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.1,Não,Sim,Não,Baixo,Não,85.5,1.8,26.4,Risco
+Mariana Moura,67,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,97.4,Não,Sim,Não,Alto,Não,106.3,1.72,35.9,Sem Risco
+Luiza Barbosa,21,Feminino,Sim,Sim,Moderado,Média,Sim,Moderado,Não,Não,Sim,Não,96.9,Não,Não,Não,Moderado,Não,66.0,1.82,19.9,Sem Risco
+Carlos Gomes,41,Não declarado,Sim,Sim,Moderado,Média,Sim,Moderado,Não,Não,Sim,Não,99.3,Não,Não,Sim,Baixo,Não,90.2,1.59,35.7,Sem Risco
+Ana Rodrigues,51,Outro,Não,Não,Moderado,Alta,Não,Moderado,Não,Sim,Sim,Não,99.0,Não,Sim,Sim,Moderado,Sim,80.6,1.59,31.9,Risco
+Maria Moura,37,Não declarado,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Sim,,94.2,Não,Não,Não,Moderado,Não,74.0,1.94,19.7,Sem Risco
+Pedro Moreira,33,Outro,Não,Não,Alto,Baixa,Sim,Alto,Não,Não,Não,Não,98.2,Não,Não,Não,Baixo,Não,88.7,1.71,30.3,Sem Risco
+Tiago Costa,62,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.1,Não,Não,Não,Moderado,Não,73.3,1.77,23.4,Sem Risco
+Mariana Ferreira,80,Feminino,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,92.3,Não,Sim,Sim,Moderado,Não,98.5,1.77,31.4,Risco
+Ana Martins,41,Outro,Sim,Sim,Alto,Média,Não,Moderado,Não,Não,Não,Não,92.8,Não,Não,Não,Alto,Não,109.8,1.79,34.3,Risco
+Luiza Rodrigues,54,Outro,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Sim,98.9,Não,Não,Não,Alto,Não,75.0,1.71,25.6,Sem Risco
+Pedro Freitas,39,Feminino,Não,Não,Baixo,Alta,Não,Baixo,Sim,Sim,Sim,Sim,102.3,Não,Sim,Não,Moderado,Sim,69.2,1.78,21.8,Risco
+Luiza Moura,59,Feminino,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.6,Não,Não,Não,Moderado,Não,78.2,1.78,24.7,Sem Risco
+Gabriel Santos,44,Masculino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.5,Não,Sim,Não,Baixo,Não,92.6,1.69,32.4,Sem Risco
+Gabriel Martins,36,Feminino,Sim,Não,Baixo,Média,Não,Baixo,Sim,Não,Não,,97.6,Não,Não,Não,Moderado,Não,47.4,1.84,14.0,Sem Risco
+Tiago Gomes,38,Não declarado,Sim,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,96.9,Não,Sim,Não,Baixo,Não,81.4,1.7,28.2,Sem Risco
+Gustavo Moura,68,Feminino,Não,Não,Moderado,Alta,Sim,Moderado,Não,Não,Não,Não,99.4,Não,Não,Não,Baixo,Não,49.3,1.73,16.5,Sem Risco
+Mariana Moreira,58,Não declarado,Não,Não,Alto,Baixa,Sim,Moderado,Não,Não,Sim,Não,100.7,Não,Não,Não,Moderado,Não,54.1,1.65,19.9,Sem Risco
+Tiago Martins,48,Feminino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,97.1,Não,Não,Sim,Moderado,Não,79.7,1.84,23.5,Sem Risco
+André Araújo,33,Masculino,Sim,Não,Moderado,Média,Não,Baixo,Sim,Não,Não,Não,96.3,Não,Não,Não,Moderado,Não,102.4,1.58,41.0,Sem Risco
+Ana Lima,24,Não declarado,Não,Não,Moderado,Baixa,Não,Baixo,Sim,Sim,Sim,Não,96.9,Não,Não,Sim,Baixo,Não,108.8,1.67,39.0,Sem Risco
+Carolina Oliveira,36,Não declarado,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,95.6,Não,Não,Não,Baixo,Não,87.2,1.77,27.8,Sem Risco
+André Ribeiro,26,Masculino,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Sim,Não,100.4,Não,Não,Não,Baixo,Sim,62.1,1.64,23.1,Sem Risco
+Ana Moreira,62,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.6,Não,Não,Não,Moderado,Não,68.2,1.66,24.7,Sem Risco
+Ana Ferreira,48,Não declarado,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Sim,Não,94.9,Não,Não,Não,Baixo,Não,69.5,1.61,26.8,Sem Risco
+João Ribeiro,26,Feminino,Não,Não,Moderado,Média,Sim,Moderado,Não,Sim,Não,Não,99.0,Não,Não,Não,Moderado,Não,40.9,1.63,15.4,Sem Risco
+André Souza,53,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,95.5,Não,Não,Não,Moderado,Não,73.9,1.79,23.1,Sem Risco
+André Freitas,62,Outro,Não,Não,Alto,Baixa,Não,Alto,Não,Sim,Não,Não,94.9,Não,Não,Não,Moderado,Não,80.7,1.72,27.3,Sem Risco
+Luiza Moreira,49,Masculino,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,95.8,Não,Não,Não,Moderado,Não,53.5,1.73,17.9,Sem Risco
+Carolina Gomes,35,Masculino,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,91.2,Não,Não,Sim,Moderado,Não,101.9,1.65,37.4,Sem Risco
+Beatriz Ferreira,48,Feminino,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,99.7,Não,Não,Não,Moderado,Não,61.1,1.69,21.4,Sem Risco
+Tiago Oliveira,63,Não declarado,Não,Sim,Moderado,Baixa,Não,Baixo,Não,Sim,Não,Não,,Não,Sim,Não,Baixo,Não,69.4,1.65,25.5,Risco
+Pedro Moreira,44,Feminino,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Não,,100.8,Não,Não,Sim,Baixo,Não,76.7,1.7,26.5,Sem Risco
+Larissa Moreira,49,Não declarado,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.7,Não,Não,Não,Baixo,Sim,82.9,1.59,32.8,Sem Risco
+Carlos Moreira,38,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,93.5,Não,Não,Não,Moderado,Não,110.3,1.76,35.6,Sem Risco
+Fernanda Martins,29,Outro,Sim,Sim,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,97.3,Sim,Não,Não,Alto,Não,103.0,1.79,32.1,Sem Risco
+Felipe Nunes,39,Feminino,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.1,Não,Não,Não,Alto,Não,87.1,1.56,35.8,Sem Risco
+Mariana Oliveira,43,Feminino,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,97.6,Não,Não,Sim,Alto,Não,76.9,1.76,24.8,Sem Risco
+Tiago Alves 91,55,Masculino,Não,Não,Baixo,Baixa,Não,Alto,Não,Sim,Não,Não,99.7,Não,Não,Não,Baixo,Não,84.7,1.68,30.0,Sem Risco
+Mariana Oliveira,41,Outro,Não,Sim,Moderado,Baixa,Sim,Baixo,Não,Não,Não,,99.2,Não,Não,Não,Baixo,Não,82.0,1.78,25.9,Sem Risco
+Pedro Nunes,49,Não declarado,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,99.7,Não,Não,Não,Moderado,Não,73.5,1.63,27.7,Sem Risco
+Carlos Moreira,20,Não declarado,Não,Não,Alto,Média,Sim,Moderado,Não,Não,Não,Não,94.0,Não,Não,Não,Alto,Não,82.3,1.92,22.3,Sem Risco
+Mariana Araújo,39,Feminino,Sim,Não,Alto,Alta,Não,Baixo,Não,Não,Não,Não,100.0,Não,Não,Não,Moderado,Não,65.4,1.71,22.4,Risco
+Ana Souza,55,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Sim,Não,99.7,Não,Não,Não,Moderado,Não,70.7,1.79,22.1,Sem Risco
+Camila Barbosa,56,Masculino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,,99.8,Não,Sim,Não,Baixo,Não,67.7,1.74,22.4,Sem Risco
+Ana Santos,59,Outro,Não,Não,Baixo,Média,Não,Moderado,Sim,Não,Não,Não,93.3,Não,Não,Não,Baixo,Não,71.3,1.72,24.1,Sem Risco
+Ana Alves,64,Não declarado,Sim,Não,Alto,Alta,Não,Baixo,Não,Sim,Sim,Não,93.2,Não,Não,Não,Moderado,Não,59.6,1.68,21.1,Risco
+Lucas Barbosa,63,Não declarado,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,100.3,Não,Não,Não,Baixo,Sim,59.2,1.83,17.7,Risco
+Mariana Oliveira,52,Masculino,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,98.1,Não,Não,Não,Moderado,Não,66.9,1.7,23.1,Sem Risco
+Maria Moreira,44,Masculino,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,96.9,Não,Não,Não,Baixo,Não,,1.78,,Sem Risco
+Mariana Pereira,44,Não declarado,Sim,Sim,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,95.3,Não,Não,Sim,Alto,Sim,105.2,1.73,35.1,Risco
+Carlos Martins,49,Feminino,Não,Não,Moderado,Média,Não,Baixo,Sim,Não,Sim,Não,99.4,Não,Não,Não,Baixo,Não,77.6,1.89,21.7,Sem Risco
+Gustavo Silva,48,Outro,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,97.3,Não,Não,Não,Baixo,Não,54.6,1.88,15.4,Sem Risco
+Felipe Ferreira,25,Não declarado,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,95.6,Não,Não,Sim,Alto,Não,86.2,1.67,30.9,Sem Risco
+Lucas Costa,42,Masculino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Sim,94.2,Não,Não,Não,Moderado,Não,87.7,1.57,35.6,Sem Risco
+Tiago Moreira,59,Outro,Não,Não,Moderado,Média,Não,Baixo,Sim,Não,Sim,Não,100.1,Não,Sim,Sim,Moderado,Não,79.2,1.52,34.3,Sem Risco
+Maria Santos,60,Feminino,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Sim,Não,97.9,Não,Sim,Não,Moderado,Não,86.2,1.62,32.8,Sem Risco
+Maria Nunes,61,Feminino,Não,Sim,Alto,Média,Não,Baixo,Não,Não,Não,Não,97.8,Não,Não,Sim,Alto,Não,82.8,1.74,27.3,Sem Risco
+Pedro Freitas,64,Feminino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Sim,Não,Não,93.9,Não,Não,Não,Moderado,Não,58.6,1.65,21.5,Sem Risco
+Gustavo Souza,18,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,95.3,Não,Não,Não,Alto,Sim,89.4,1.73,29.9,Sem Risco
+Tiago Freitas,37,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.3,Não,Não,Sim,Moderado,Não,105.7,1.72,35.7,Sem Risco
+Camila Dias,67,Outro,Não,Sim,Moderado,Alta,Não,Moderado,Não,Não,Sim,Não,96.8,Não,Não,Não,Baixo,Não,67.2,1.78,21.2,Sem Risco
+Rafael Costa,36,Outro,Não,Não,Moderado,Alta,Não,Baixo,Sim,Não,Não,Não,102.4,Não,Não,Não,Moderado,Não,84.2,1.63,31.7,Sem Risco
+Mariana Ribeiro,52,Outro,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Sim,95.7,Não,Sim,Não,Baixo,Não,83.0,1.78,26.2,Sem Risco
+Felipe Gomes,71,Masculino,Não,Sim,Moderado,Alta,Sim,Moderado,Não,Não,Sim,Não,98.0,Não,Não,Não,Moderado,Não,70.0,1.57,28.4,Risco
+João Moura,49,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,100.1,Não,Sim,Não,Moderado,Não,61.4,1.51,26.9,Sem Risco
+Pedro Moreira,49,Outro,Não,Não,Alto,Média,Não,Moderado,Sim,Não,Sim,Não,96.8,Não,Não,Não,Moderado,Não,115.0,1.67,41.2,Sem Risco
+Lucas Rodrigues,42,Feminino,Sim,Sim,Baixo,Alta,Não,Alto,Não,Não,Não,Não,94.5,Não,Não,Não,Moderado,Não,74.8,1.83,22.3,Risco
+Beatriz Ferreira,39,Outro,Não,Sim,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,96.2,Não,Não,Não,Baixo,Não,96.1,,,Sem Risco
+Carolina Nunes 71,42,Outro,Sim,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,97.0,Não,Sim,Não,Moderado,Não,77.6,1.62,29.6,Risco
+Ana Lima,28,Masculino,Não,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,93.0,Sim,Não,Não,Moderado,Não,82.1,1.77,26.2,Sem Risco
+Paula Lima,49,Feminino,Não,Sim,Baixo,Média,Sim,Baixo,Sim,Não,Não,Não,101.3,Não,Não,Não,Moderado,Não,95.8,1.76,30.9,Sem Risco
+Gabriel Costa,61,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,95.1,Não,Não,Não,Moderado,Não,89.2,1.75,29.1,Sem Risco
+André Araújo,39,Masculino,Não,Não,Moderado,Alta,Não,Baixo,Não,Não,Não,Não,93.8,Não,Não,Não,Alto,Não,74.3,1.84,21.9,Sem Risco
+Pedro Barbosa,50,Masculino,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,93.8,Não,Não,Não,Moderado,Não,105.2,1.76,34.0,Sem Risco
+João Gomes,44,Outro,Sim,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Não,Moderado,Sim,66.2,1.76,21.4,Risco
+Luiza Moura,58,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Sim,96.1,Não,Não,Não,Baixo,Não,111.2,1.67,39.9,Sem Risco
+Paula Silva,70,Feminino,Não,Não,Moderado,Baixa,Sim,Baixo,Não,Não,Não,Não,99.4,Não,Não,Sim,Baixo,Não,76.8,1.69,26.9,Sem Risco
+Paula Santos,33,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,101.6,Não,Sim,Sim,Moderado,Não,49.6,1.72,16.8,Sem Risco
+Camila Lima,42,Outro,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,98.0,Não,Não,Sim,Moderado,Não,76.5,1.68,27.1,Sem Risco
+Maria Rodrigues,60,Feminino,Não,Não,Baixo,Baixa,Sim,Baixo,Não,Sim,Não,Não,95.0,Não,Não,Sim,Moderado,Não,88.5,1.71,30.3,Sem Risco
+Ana Rodrigues,32,Não declarado,Não,Não,Alto,Média,Não,Baixo,Não,Não,Não,Não,98.4,Não,Não,Sim,Alto,Não,80.6,1.67,28.9,Sem Risco
+Carolina Lima,54,Feminino,Não,Não,Moderado,Média,Sim,Moderado,Não,Não,Sim,Não,99.3,Não,Não,Sim,Baixo,Não,56.3,1.71,19.3,Sem Risco
+Luiza Pereira,52,Masculino,Não,Sim,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,96.9,Não,Não,Não,Baixo,Não,91.8,1.64,34.1,Sem Risco
+Luiza Gomes,48,Não declarado,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Sim,Não,99.1,Não,Não,Não,Baixo,Não,67.0,1.72,22.6,Sem Risco
+Mariana Ribeiro,51,Masculino,Não,Não,Baixo,Alta,Não,Baixo,Sim,Não,Não,Não,96.9,Não,Sim,Não,Baixo,Não,80.5,1.82,24.3,Sem Risco
+Gustavo Santos,18,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Sim,Não,95.5,Não,Não,Não,Moderado,Não,76.5,1.81,23.4,Sem Risco
+Carlos Moura,64,Feminino,Sim,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,94.2,Não,Sim,Não,Moderado,Não,83.3,1.74,27.5,Risco
+Mariana Silva,57,Não declarado,Sim,Não,Moderado,Alta,Não,Moderado,Não,Sim,Não,Sim,101.7,Não,Não,Não,Alto,Não,,1.73,,Risco
+Gabriel Ribeiro,60,Outro,Sim,Não,Baixo,Média,Não,Baixo,Não,Sim,Não,Não,95.7,Não,Não,Não,Moderado,Sim,92.3,1.85,27.0,Risco
+Beatriz Nunes,48,Outro,Sim,Não,Moderado,Baixa,Sim,Alto,Não,Não,Não,Não,99.9,Não,Não,Não,Moderado,Não,91.3,1.72,30.9,Sem Risco
+João Souza,33,Outro,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,99.0,Não,Não,Não,Moderado,Sim,71.6,1.64,26.6,Sem Risco
+Luiza Dias,26,Outro,Sim,Não,Baixo,Baixa,Não,Baixo,Sim,Não,Não,Não,98.9,Não,Não,Não,Baixo,Sim,64.7,1.72,21.9,Sem Risco
+Maria Souza,42,Outro,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,95.4,Sim,Não,Sim,Baixo,Sim,102.2,1.78,32.3,Sem Risco
+Gabriel Barbosa,45,Masculino,Não,Sim,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,94.5,Não,Não,Não,Alto,Não,,1.63,,Sem Risco
+Gustavo Dias,85,Masculino,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,95.8,Não,Não,Não,Moderado,Não,82.3,1.72,27.8,Risco
+Camila Silva,66,Feminino,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Sim,Sim,92.8,Não,Não,Não,Baixo,Não,94.7,1.59,37.5,Sem Risco
+Beatriz Barbosa,74,Outro,Sim,Não,Baixo,Média,Não,Moderado,Sim,Sim,Não,Não,95.8,Sim,Não,Não,Baixo,Não,88.5,1.67,31.7,Risco
+Carolina Gomes,46,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,98.1,Não,Não,Sim,Baixo,Não,78.9,1.74,26.1,Sem Risco
+Fernanda Nunes,45,Não declarado,Não,Não,Alto,Média,Não,Moderado,Não,Não,Sim,Não,102.8,Não,Não,Não,Alto,Não,94.3,1.71,32.2,Sem Risco
+Gabriel Martins,56,Feminino,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Não,Não,96.1,Não,Não,Não,Moderado,Não,95.9,1.67,34.4,Sem Risco
+Carlos Barbosa,64,Não declarado,Não,Sim,Alto,Baixa,Não,Moderado,Não,Sim,Não,Não,96.5,Não,Não,Sim,Baixo,Não,68.6,,,Sem Risco
+Luiza Freitas,61,Não declarado,Sim,Sim,Moderado,Média,Não,Baixo,Não,Não,Não,Não,98.3,Não,Não,Sim,Moderado,Sim,53.4,1.55,22.2,Risco
+Paula Silva,48,Feminino,Sim,Sim,Moderado,Média,Não,Baixo,Sim,Não,Não,Não,98.5,Não,Não,Não,Moderado,Não,74.0,1.52,32.0,Sem Risco
+Camila Dias,67,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Sim,Não,93.7,Não,Não,Não,Moderado,Não,66.9,1.78,21.1,Risco
+Felipe Moura,39,Feminino,Sim,Não,Baixo,Média,Sim,Baixo,Não,Não,Sim,Não,97.0,Não,Não,Não,Moderado,Não,90.8,1.69,31.8,Sem Risco
+André Araújo,18,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.7,Não,Sim,Não,Moderado,Sim,84.1,1.69,29.4,Sem Risco
+Pedro Ferreira,28,Outro,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,93.5,Não,Não,Não,Baixo,Não,65.0,1.8,20.1,Sem Risco
+Pedro Alves,43,Feminino,Não,Sim,Baixo,Média,Não,Moderado,Sim,Não,Não,Sim,98.5,Não,Não,Não,Moderado,Não,76.8,1.7,26.6,Sem Risco
+Carlos Lima,62,Feminino,Não,Não,Alto,Baixa,Sim,Moderado,Não,Sim,Não,Sim,95.2,Não,Não,Não,Baixo,Não,80.5,1.7,27.9,Sem Risco
+Larissa Freitas,44,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,100.7,Não,Não,Não,Moderado,Não,74.9,1.64,27.8,Sem Risco
+Felipe Barbosa,53,Feminino,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,100.5,Não,Não,Sim,Baixo,Sim,65.5,1.89,18.3,Risco
+Gustavo Araújo,76,Feminino,Sim,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,97.0,Sim,Não,Não,Moderado,Não,78.7,1.73,26.3,Risco
+João Souza,50,Feminino,Sim,Não,Alto,Alta,Não,Moderado,Não,Não,Sim,Não,97.1,Não,Não,Não,Moderado,Não,,,,Risco
+Luiza Nunes,30,Feminino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,98.5,Não,Não,Não,Baixo,Não,57.8,1.56,23.8,Sem Risco
+Ana Moura,64,Não declarado,Sim,Não,Baixo,Média,Não,Baixo,Não,Sim,Não,Não,95.5,Sim,Sim,Sim,Alto,Não,79.6,1.75,26.0,Risco
+André Moreira,35,Não declarado,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,93.7,Não,Não,Não,Baixo,Sim,78.2,1.76,25.2,Sem Risco
+Carolina Nunes,62,Não declarado,Não,Não,Alto,Média,Não,Moderado,Sim,Sim,Não,Sim,98.9,Não,Não,Sim,Alto,Não,,1.6,,Sem Risco
+Luiza Araújo,57,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.1,Não,Não,Não,Baixo,Não,69.0,1.72,23.3,Sem Risco
+Rafael Nunes,55,Feminino,Sim,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,97.3,Não,Não,Não,Moderado,Não,81.5,1.74,26.9,Sem Risco
+Rafael Moura,40,Outro,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,94.2,Não,Não,Não,Baixo,Não,77.1,1.74,25.5,Sem Risco
+Mariana Ribeiro,73,Masculino,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,97.1,Não,Não,Não,Baixo,Não,,1.72,,Sem Risco
+Lucas Lima,23,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,98.0,Não,Não,Sim,Baixo,Não,98.8,1.8,30.5,Sem Risco
+Carlos Oliveira,43,Outro,Sim,Não,Alto,Baixa,Não,Baixo,Não,Sim,Não,Não,95.7,Não,Não,Não,Baixo,Não,76.7,1.57,31.1,Sem Risco
+Paula Moura,37,Feminino,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,97.4,Não,Não,Não,Moderado,Não,87.8,1.56,36.1,Sem Risco
+Camila Martins,44,Masculino,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,97.7,Não,Não,Não,Alto,Não,77.6,1.68,27.5,Sem Risco
+Tiago Martins,41,Outro,Não,Sim,Moderado,Média,Não,Baixo,Não,Sim,Sim,Não,93.0,Não,Sim,Não,Baixo,Não,103.6,1.67,37.1,Risco
+Fernanda Martins,53,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,98.1,Não,Não,Não,Baixo,Não,82.6,1.76,26.7,Sem Risco
+Paula Moreira,39,Feminino,Não,Não,Alto,Baixa,Não,Moderado,Não,Sim,Não,Não,101.3,Sim,Não,Não,Baixo,Não,104.2,1.61,40.2,Sem Risco
+Larissa Alves,55,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.4,Não,Não,Não,Baixo,Não,76.1,1.73,25.4,Sem Risco
+João Martins,44,Não declarado,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,94.9,Não,Não,Sim,Moderado,Não,79.7,,,Sem Risco
+Luiza Moura,44,Masculino,Não,Não,Baixo,Média,Não,Baixo,Sim,Não,Sim,Não,98.1,Não,Não,Não,Moderado,Não,106.1,1.74,35.0,Sem Risco
+Gustavo Dias,52,Masculino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,99.3,Não,Não,Não,Baixo,Não,77.3,1.63,29.1,Sem Risco
+Pedro Barbosa,65,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.3,Não,Não,Não,Alto,Não,90.7,1.5,40.3,Sem Risco
+Luiza Santos,64,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,,Não,Não,Não,Baixo,Não,74.9,1.89,21.0,Sem Risco
+Carlos Moura,67,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,98.0,Não,Não,Não,Moderado,Não,80.9,1.78,25.5,Sem Risco
+Rafael Barbosa,36,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,95.4,Não,Não,Não,Baixo,Não,79.5,1.7,27.5,Sem Risco
+Larissa Silva,33,Masculino,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Não,Não,,Não,Sim,Não,Baixo,Não,83.2,1.56,34.2,Sem Risco
+Beatriz Alves,43,Masculino,Não,Não,Moderado,Média,Não,Moderado,Sim,Sim,Não,Não,98.8,Não,Não,Não,Alto,Não,76.5,1.65,28.1,Sem Risco
+João Alves,22,Masculino,Não,Não,Baixo,Média,Não,Moderado,Sim,Não,Não,Não,98.6,Não,Não,Não,Moderado,Não,72.7,1.84,21.5,Sem Risco
+Carolina Lima,53,Não declarado,Sim,Não,Alto,Média,Não,Moderado,Não,Sim,Não,Não,91.7,Não,Não,Não,Baixo,Não,94.7,1.8,29.2,Risco
+Ana Dias,31,Não declarado,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,97.9,Não,Não,Não,Moderado,Não,81.6,1.6,31.9,Sem Risco
+Rafael Rodrigues,41,Masculino,Sim,Não,Baixo,Média,Não,Alto,Não,Não,Não,Não,96.6,Não,Não,Não,Moderado,Não,82.3,1.71,28.1,Sem Risco
+Luiza Ferreira,52,Masculino,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Sim,Não,97.8,Não,Não,Não,Alto,Não,91.1,1.64,33.9,Sem Risco
+Fernanda Dias,37,Não declarado,Não,Sim,Baixo,Média,Sim,Moderado,Não,Não,Sim,Não,93.8,Não,Não,Não,Baixo,Não,60.5,1.7,20.9,Sem Risco
+Gustavo Costa,21,Feminino,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.0,Não,Não,Não,Alto,Não,77.3,1.57,31.4,Sem Risco
+Ana Ferreira,61,Masculino,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,96.1,Não,Não,Não,Moderado,Não,64.6,1.74,21.3,Sem Risco
+Tiago Santos,54,Não declarado,Sim,Não,Alto,Média,Sim,Moderado,Não,Não,Sim,Não,95.9,Não,Não,Sim,Moderado,Não,84.1,,,Sem Risco
+Beatriz Oliveira,55,Outro,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Sim,Não,Não,100.1,Não,Não,Não,Moderado,Não,77.3,1.59,30.6,Sem Risco
+João Barbosa,64,Masculino,Sim,Sim,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,96.1,Sim,Não,Não,Moderado,Não,77.3,1.66,28.1,Risco
+Camila Rodrigues,26,Não declarado,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,98.9,Não,Não,Sim,Baixo,Não,101.0,1.71,34.5,Sem Risco
+Lucas Barbosa,55,Outro,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,97.5,Não,Sim,Não,Moderado,Não,68.9,1.68,24.4,Sem Risco
+Carolina Moreira,56,Não declarado,Sim,Não,Baixo,Média,Sim,Alto,Não,Não,Sim,Não,96.5,Não,Não,Não,Moderado,Não,,1.76,,Risco
+Camila Dias,24,Feminino,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,93.1,Não,Sim,Não,Moderado,Não,49.3,1.69,17.3,Sem Risco
+Pedro Ribeiro,60,Feminino,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,97.3,Sim,Não,Não,Baixo,Não,62.6,1.69,21.9,Sem Risco
+Felipe Dias,53,Não declarado,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,102.2,Não,Sim,Sim,Moderado,Não,86.3,1.58,34.6,Risco
+Gabriel Silva,46,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,100.3,Não,Não,Não,Baixo,Não,84.2,1.68,29.8,Sem Risco
+Luiza Araújo,47,Outro,Não,Não,Moderado,Alta,Não,Moderado,Sim,Não,Sim,Não,95.7,Não,Não,Sim,Baixo,Não,95.4,1.67,34.2,Sem Risco
+Gabriel Ribeiro,43,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,95.0,Não,Não,Não,Baixo,Não,83.3,1.68,29.5,Sem Risco
+Paula Silva,68,Feminino,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,95.6,Não,Não,Não,Moderado,Não,48.7,1.71,16.7,Sem Risco
+Pedro Alves,46,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Sim,98.0,Não,Não,Não,Baixo,Não,84.7,1.6,33.1,Sem Risco
+Paula Alves,43,Não declarado,Não,Não,Alto,Baixa,Não,Baixo,Sim,Não,Não,Não,96.2,Não,Sim,Não,Alto,Não,85.4,1.67,30.6,Sem Risco
+Felipe Silva,21,Feminino,Sim,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,100.3,Não,Não,Não,Alto,Não,68.5,1.71,23.4,Sem Risco
+Gustavo Alves,56,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,95.6,Não,Não,Não,Moderado,Não,97.9,1.73,32.7,Sem Risco
+Larissa Moreira,31,Não declarado,Não,Sim,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,92.6,Não,Não,Não,Baixo,Não,85.7,1.79,26.7,Sem Risco
+Paula Gomes,67,Não declarado,Sim,Não,Alto,Baixa,Não,Alto,Não,Não,Não,Não,94.1,Não,Não,Não,Moderado,Não,88.7,1.53,37.9,Risco
+Rafael Ferreira,51,Masculino,Não,Sim,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,100.2,Não,Sim,Sim,Alto,Não,71.2,1.78,22.5,Sem Risco
+Carlos Gomes,23,Feminino,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,101.6,Não,Não,Sim,Moderado,Não,89.7,,,Sem Risco
+Carlos Costa,33,Outro,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,101.8,Sim,Sim,Não,Baixo,Não,62.0,1.67,22.2,Sem Risco
+Tiago Nunes,49,Masculino,Não,Não,Alto,Baixa,Sim,Moderado,Não,Não,Não,Não,97.4,Sim,Não,Não,Moderado,Não,64.8,1.67,23.2,Sem Risco
+Carlos Ferreira,44,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,94.8,Não,Não,Não,Baixo,Não,99.3,1.56,40.8,Sem Risco
+Fernanda Silva,47,Feminino,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,97.7,Não,Não,Não,Baixo,Não,94.5,1.8,29.2,Sem Risco
+Rafael Santos,31,Outro,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Sim,Não,98.1,Não,Não,Sim,Baixo,Não,95.7,1.91,26.2,Sem Risco
+Lucas Araújo,75,Masculino,Sim,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Não,Baixo,Não,62.6,1.81,19.1,Risco
+Tiago Ferreira,57,Não declarado,Sim,Não,Moderado,Alta,Não,Baixo,Não,Não,Sim,Não,96.7,Não,Não,Não,Moderado,Não,74.8,1.79,23.3,Risco
+Gabriel Pereira,50,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Não,Não,98.3,Não,Não,Sim,Moderado,Não,81.2,1.79,25.3,Sem Risco
+Larissa Souza,60,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,97.3,Não,Sim,Não,Moderado,Não,67.4,1.78,21.3,Sem Risco
+Larissa Oliveira,55,Masculino,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Sim,95.0,Não,Sim,Não,Baixo,Não,107.9,1.63,40.6,Risco
+Lucas Lima,29,Outro,Não,Sim,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.7,Não,Não,Não,Alto,Não,57.8,1.75,18.9,Sem Risco
+Pedro Alves,67,Não declarado,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Sim,98.4,Não,Não,Não,Baixo,Não,78.3,1.59,31.0,Sem Risco
+Carolina Freitas,50,Feminino,Não,Sim,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,99.6,Não,Sim,Sim,Baixo,Não,53.4,1.71,18.3,Sem Risco
+André Martins,43,Não declarado,Não,Sim,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,94.5,Não,Sim,Não,Moderado,Não,64.1,1.56,26.3,Risco
+Fernanda Dias,55,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,101.8,Não,Não,Não,Alto,Não,69.0,1.8,21.3,Sem Risco
+Tiago Freitas,52,Masculino,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,97.7,Não,Não,Sim,Alto,Não,69.3,1.59,27.4,Sem Risco
+Carlos Costa,68,Masculino,Sim,Não,Moderado,Média,Não,Moderado,Sim,Não,Não,Não,101.6,Não,Não,Não,Moderado,Não,74.1,1.92,20.1,Risco
+Luiza Alves,22,Masculino,Sim,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Sim,97.3,Não,Não,Não,Moderado,Não,81.4,1.8,25.1,Sem Risco
+Luiza Silva,52,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,97.5,Não,Sim,Sim,Moderado,Não,,1.56,,Sem Risco
+Fernanda Santos,46,Outro,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Sim,Não,99.5,Não,Não,Não,Baixo,Não,108.7,1.7,37.6,Sem Risco
+Felipe Oliveira,29,Outro,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,96.0,Não,Não,Não,Baixo,Não,67.7,1.54,28.5,Sem Risco
+Tiago Costa,36,Feminino,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,95.4,Sim,Não,Sim,Baixo,Não,81.9,1.72,27.7,Sem Risco
+Lucas Ribeiro,54,Masculino,Não,Não,Baixo,Média,Não,Moderado,Sim,Não,Não,Não,94.9,Não,Não,Não,Moderado,Não,90.3,1.66,32.8,Sem Risco
+Maria Pereira,55,Outro,Sim,Sim,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.1,Não,Não,Não,Moderado,Não,86.0,1.78,27.1,Sem Risco
+Felipe Souza,60,Outro,Não,Não,Moderado,Alta,Sim,Alto,Não,Não,Não,Não,96.2,Não,Não,Não,Baixo,Não,78.4,1.68,27.8,Sem Risco
+Gustavo Ribeiro,18,Não declarado,Não,Não,Moderado,Baixa,Não,Baixo,Sim,Não,Não,Não,99.4,Não,Não,Sim,Moderado,Não,60.0,1.49,27.0,Sem Risco
+Felipe Oliveira,59,Não declarado,Não,Sim,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,96.7,Não,Sim,Não,Alto,Não,78.5,1.61,30.3,Sem Risco
+Gabriel Freitas,46,Masculino,Não,Não,Moderado,Média,Não,Alto,Não,Sim,Não,Não,95.9,Não,Não,Não,Moderado,Não,81.4,1.7,28.2,Sem Risco
+Mariana Dias,57,Masculino,Não,Não,Baixo,Baixa,Não,Baixo,Sim,Não,Não,Não,95.6,Não,Não,Não,Alto,Não,67.2,1.67,24.1,Sem Risco
+Rafael Dias,35,Feminino,Não,Não,Moderado,Baixa,Sim,Alto,Não,Não,Não,Sim,95.8,Não,Não,Não,Baixo,Não,78.1,1.67,28.0,Sem Risco
+Larissa Nunes,45,Outro,Sim,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,97.5,Não,Não,Não,Baixo,Não,74.7,1.63,28.1,Sem Risco
+Luiza Dias,46,Não declarado,Sim,Não,Baixo,Alta,Sim,Moderado,Sim,Não,Não,Não,98.0,Não,Não,Sim,Baixo,Não,95.7,1.74,31.6,Sem Risco
+Pedro Araújo,34,Outro,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,96.0,Não,Não,Não,Moderado,Não,73.1,1.77,23.3,Sem Risco
+Gabriel Souza,49,Outro,Sim,Não,Baixo,Baixa,Não,Baixo,Não,Sim,Não,Não,95.6,Não,Não,Sim,Alto,Não,82.8,1.85,24.2,Sem Risco
+Camila Araújo,32,Não declarado,Não,Não,Alto,Média,Não,Alto,Sim,Não,Não,Não,93.3,Não,Não,Não,Baixo,Não,69.4,1.44,33.5,Sem Risco
+Paula Santos,40,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.7,Sim,Não,Não,Moderado,Não,97.9,1.57,39.7,Sem Risco
+Rafael Gomes,62,Não declarado,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,94.9,Não,Não,Sim,Baixo,Sim,89.3,1.59,35.3,Risco
+André Silva,69,Não declarado,Não,Não,Moderado,Baixa,Não,Baixo,Não,Sim,Não,Não,98.6,Não,Não,Não,Alto,Não,86.1,1.74,28.4,Sem Risco
+Camila Santos,78,Outro,Sim,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,98.4,Não,Não,Não,Baixo,Não,72.5,1.64,27.0,Sem Risco
+Carolina Araújo,68,Masculino,Não,Não,Alto,Média,Não,Baixo,Não,Não,Não,Não,93.3,Não,Não,Não,Baixo,Não,106.9,1.63,40.2,Sem Risco
+Carlos Ribeiro,19,Outro,Não,Sim,Moderado,Baixa,Não,Baixo,Não,Não,Não,Sim,97.1,Não,Não,Não,Baixo,Não,66.6,1.69,23.3,Sem Risco
+Felipe Araújo,70,Feminino,Sim,Não,Baixo,Baixa,Sim,Moderado,Sim,Sim,Não,Não,97.1,Não,Não,Sim,Moderado,Não,50.2,1.77,16.0,Risco
+Luiza Ferreira,70,Não declarado,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,99.0,Não,Não,Não,Baixo,Não,80.9,,,Risco
+Pedro Alves,67,Masculino,Sim,Não,Alto,Média,Sim,Moderado,Não,Não,Não,Não,92.9,Não,Não,Sim,Baixo,Não,80.8,1.73,27.0,Risco
+Felipe Souza,26,Feminino,Não,Sim,Baixo,Baixa,Sim,Alto,Não,Sim,Sim,Não,96.6,Não,Não,Sim,Baixo,Não,79.2,1.71,27.1,Sem Risco
+Larissa Ferreira,45,Outro,Não,Não,Alto,Média,Não,Alto,Não,Não,Não,Não,97.4,Não,Não,Não,Moderado,Sim,55.5,1.63,20.9,Sem Risco
+Camila Araújo,47,Feminino,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,97.6,Não,Não,Não,Baixo,Não,58.9,1.69,20.6,Sem Risco
+Felipe Moreira,71,Feminino,Não,Não,Moderado,Média,Sim,Moderado,Não,Sim,Não,Não,99.5,Não,Não,Não,Moderado,Não,83.7,1.73,28.0,Sem Risco
+Carolina Nunes,40,Feminino,Não,Não,Baixo,Média,Não,Alto,Não,Não,Não,Sim,97.6,Não,Não,Não,Moderado,Não,63.7,1.65,23.4,Sem Risco
+Pedro Ribeiro,39,Não declarado,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,,95.8,Sim,Sim,Não,Baixo,Não,70.8,1.73,23.7,Sem Risco
+Gabriel Nunes,53,Masculino,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,97.7,Não,Não,Não,Alto,Não,53.3,1.75,17.4,Sem Risco
+Fernanda Ferreira,36,Não declarado,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,,Não,Não,Sim,Moderado,Não,78.7,1.75,25.7,Sem Risco
+Lucas Moura,52,Outro,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,92.5,Não,Não,Não,Baixo,Não,72.1,1.6,28.2,Sem Risco
+Gabriel Moreira,52,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,100.4,Não,Não,Não,Baixo,Não,81.5,1.79,25.4,Sem Risco
+Felipe Gomes,61,Feminino,Sim,Não,Alto,Baixa,Não,Alto,Não,Não,Não,Não,96.3,Não,Não,Não,Baixo,Sim,54.4,1.59,21.5,Risco
+Tiago Martins,29,Não declarado,Não,Não,Baixo,Média,Não,Moderado,Sim,Não,Sim,Não,91.7,Não,Não,Não,Baixo,Não,55.7,1.68,19.7,Sem Risco
+Maria Gomes,64,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,93.2,Não,Não,Não,Baixo,Sim,60.9,1.62,23.2,Risco
+Gustavo Lima,67,Masculino,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.4,Não,Não,Não,Moderado,Não,88.2,1.6,34.5,Sem Risco
+Lucas Nunes,24,Outro,Não,Não,Moderado,Alta,Não,Moderado,Não,Sim,Sim,Não,98.3,Não,Não,Não,Baixo,Não,61.5,1.69,21.5,Sem Risco
+Ana Moura,57,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,98.5,Não,Não,Não,Moderado,Não,92.9,1.76,30.0,Sem Risco
+João Lima,18,Feminino,Sim,Não,Alto,Média,Não,Baixo,Sim,Sim,Não,Não,102.1,Não,Não,Não,Moderado,Não,68.6,1.73,22.9,Risco
+Pedro Araújo,52,Outro,Sim,Não,Moderado,Média,Não,Alto,Sim,Não,Não,Não,96.6,Não,Não,Não,Alto,Não,76.3,1.67,27.4,Sem Risco
+Gabriel Freitas,33,Masculino,Não,Não,Baixo,Média,Sim,Alto,Não,Não,Não,Não,90.8,Não,Não,Não,Baixo,Não,73.2,1.71,25.0,Sem Risco
+Gabriel Moreira,36,Outro,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Sim,Não,96.8,Não,Não,Não,Baixo,Não,48.9,1.63,18.4,Sem Risco
+Larissa Moreira,41,Masculino,Sim,Sim,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,95.8,Não,Não,Sim,Moderado,Não,101.4,1.75,33.1,Sem Risco
+Mariana Ferreira,53,Masculino,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,95.0,Não,Sim,Não,Alto,Não,57.1,1.79,17.8,Sem Risco
+Camila Souza,36,Masculino,Sim,Não,Alto,Baixa,Sim,Moderado,Não,Não,Sim,Não,98.4,Não,Não,Não,Moderado,Não,70.4,1.53,30.1,Sem Risco
+Felipe Pereira,60,Masculino,Sim,Não,Baixo,Alta,Sim,Moderado,Não,Não,Não,Não,92.1,Não,Não,Não,Baixo,Não,75.3,1.62,28.7,Risco
+Maria Gomes,41,Outro,Não,Não,Moderado,Média,Não,Moderado,Sim,Não,Não,Não,99.7,Não,Não,Sim,Moderado,Não,61.6,1.77,19.7,Sem Risco
+Beatriz Rodrigues,69,Feminino,Não,Não,Baixo,Média,Não,Alto,Não,Não,Não,Não,,Sim,Não,Não,Moderado,Não,91.1,1.61,35.1,Sem Risco
+André Barbosa,40,Feminino,Não,Não,Moderado,Baixa,Sim,Alto,Não,Não,Não,Não,98.6,Não,Não,Não,Alto,Não,72.1,1.73,24.1,Sem Risco
+Luiza Pereira,44,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,95.8,Não,Sim,Sim,Baixo,Não,77.9,1.77,24.9,Sem Risco
+Carolina Alves,41,Feminino,Não,Sim,Baixo,Média,Não,Moderado,Não,Não,Não,Não,94.3,Não,Não,Não,Moderado,Não,67.0,1.64,24.9,Sem Risco
+Mariana Moura,44,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,99.6,Não,Não,Não,Moderado,Não,68.0,1.63,25.6,Sem Risco
+Rafael Silva,53,Não declarado,Não,Não,Baixo,Média,Não,Alto,Não,Não,Não,Não,99.1,Não,Não,Não,Moderado,Não,75.6,1.58,30.3,Sem Risco
+Fernanda Moreira,79,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,98.4,Não,Não,Não,Moderado,Sim,87.8,1.55,36.5,Sem Risco
+Beatriz Dias,59,Não declarado,Não,Não,Moderado,Alta,Sim,Moderado,Não,Não,Não,Não,,Não,Não,Não,Baixo,Não,58.9,1.59,23.3,Sem Risco
+Rafael Moura,54,Feminino,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,95.7,Não,Não,Não,Alto,Sim,68.9,1.75,22.5,Sem Risco
+Gustavo Araújo,81,Não declarado,Não,Sim,Alto,Baixa,Sim,Baixo,Não,Não,Não,Não,100.0,Sim,Não,Não,Moderado,Sim,78.5,1.88,22.2,Risco
+Tiago Rodrigues,49,Outro,Não,Não,Alto,Média,Sim,Moderado,Não,Não,Não,Não,96.7,Não,Não,Não,Baixo,Não,65.0,1.71,22.2,Sem Risco
+João Martins,44,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.0,Não,Não,Sim,Alto,Não,75.0,1.61,28.9,Sem Risco
+Carolina Araújo,67,Outro,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,97.1,Não,Não,Não,Moderado,Não,89.0,1.64,33.1,Sem Risco
+Mariana Freitas,46,Feminino,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,,Não,Não,Não,Moderado,Não,87.9,1.62,33.5,Sem Risco
+Carlos Freitas,28,Feminino,Não,Sim,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,97.8,Não,Não,Sim,Baixo,Não,77.1,1.72,26.1,Sem Risco
+Ana Santos,60,Não declarado,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,94.0,Não,Não,Não,Baixo,Sim,75.0,1.62,28.6,Risco
+Maria Dias,36,Feminino,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Sim,96.3,Sim,Não,Sim,Moderado,Não,80.0,1.69,28.0,Sem Risco
+Pedro Ferreira,46,Não declarado,Não,Não,Baixo,Baixa,Sim,Moderado,Sim,Não,Não,Não,92.8,Não,Não,Sim,Baixo,Não,73.3,1.68,26.0,Sem Risco
+Luiza Costa,37,Outro,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.0,Não,Não,Não,Alto,Não,65.7,1.59,26.0,Sem Risco
+André Nunes,24,Feminino,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Sim,Não,94.2,Não,Não,Sim,Alto,Não,98.0,1.53,41.9,Sem Risco
+Rafael Araújo,53,Outro,Não,Não,Alto,Alta,Sim,Moderado,Não,Não,Não,Não,99.5,Não,Não,Sim,Moderado,Não,94.4,1.5,42.0,Sem Risco
+Gabriel Souza,48,Masculino,Não,Não,Baixo,Média,Não,Alto,Sim,Não,Não,Não,100.1,Não,Não,Não,Baixo,Não,100.9,1.73,33.7,Sem Risco
+Lucas Alves,54,Não declarado,Não,Não,Baixo,Alta,Não,Alto,Não,Não,Sim,Não,96.8,Não,Não,Não,Moderado,Não,62.9,1.51,27.6,Sem Risco
+Paula Rodrigues,53,Não declarado,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Não,Não,91.4,Não,Não,Sim,Baixo,Não,64.8,1.48,29.6,Risco
+João Ribeiro,25,Não declarado,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,,Não,Não,Não,Moderado,Não,78.1,1.68,27.7,Sem Risco
+Beatriz Ribeiro,18,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,102.1,Não,Não,Não,Baixo,Não,81.5,1.78,25.7,Sem Risco
+Ana Alves,60,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,102.1,Não,Não,Não,Moderado,Não,83.1,1.68,29.4,Sem Risco
+Carolina Alves,57,Não declarado,Sim,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Sim,Baixo,Não,66.4,1.78,21.0,Sem Risco
+Fernanda Barbosa,69,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Sim,Não,97.2,Não,Não,Não,Baixo,Não,50.7,1.64,18.9,Sem Risco
+Maria Ferreira,46,Masculino,Sim,Não,Alto,Baixa,Não,Baixo,Não,Sim,Não,Não,96.1,Não,Não,Não,Alto,Não,78.5,1.77,25.1,Sem Risco
+Ana Alves,80,Feminino,Sim,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,,96.2,Não,Não,Sim,Baixo,Sim,88.3,1.64,32.8,Risco
+Gustavo Moura,50,Não declarado,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.2,Não,Não,Não,Baixo,Não,71.6,1.8,22.1,Sem Risco
+Tiago Lima,59,Masculino,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Sim,Não,94.1,Não,Não,Não,Baixo,Não,76.6,1.7,26.5,Sem Risco
+Larissa Freitas,37,Outro,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,94.2,Não,Não,Sim,Moderado,Não,66.2,1.57,26.9,Sem Risco
+Maria Rodrigues,51,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,95.4,Não,Sim,Não,Alto,Não,113.7,1.77,36.3,Sem Risco
+Mariana Rodrigues,49,Outro,Não,Não,Alto,Média,Não,Baixo,Sim,Não,Sim,Não,94.3,Não,Não,Sim,Moderado,Não,97.8,1.72,33.1,Sem Risco
+Paula Rodrigues,37,Outro,Sim,Não,Moderado,Média,Não,Alto,Não,Sim,Não,Não,101.2,Não,Não,Não,Baixo,Não,90.3,1.74,29.8,Sem Risco
+Carlos Souza,41,Não declarado,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,93.3,Não,Não,Sim,Baixo,Não,68.9,1.77,22.0,Sem Risco
+Pedro Costa,53,Masculino,Não,Não,Baixo,Alta,Não,Moderado,Sim,Não,Não,Não,93.0,Não,Não,Não,Moderado,Não,102.3,1.74,33.8,Sem Risco
+Maria Gomes,70,Feminino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,98.1,Não,Não,Não,Moderado,Sim,55.5,1.67,19.9,Sem Risco
+Tiago Costa,74,Feminino,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,93.4,Não,Não,Sim,Baixo,Não,94.3,1.72,31.9,Risco
+Tiago Costa,54,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,92.6,Não,Não,Não,Alto,Não,84.5,1.67,30.3,Sem Risco
+Gabriel Lima,44,Masculino,Sim,Não,Moderado,Alta,Sim,Moderado,Não,Não,Não,Não,94.0,Não,Não,Não,Alto,Não,69.9,1.78,22.1,Risco
+Rafael Lima,47,Outro,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,97.3,Não,Não,Não,Baixo,Sim,76.3,1.83,22.8,Sem Risco
+Luiza Souza,45,Masculino,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,101.6,Não,Não,Não,Alto,Não,98.3,1.56,40.4,Sem Risco
+Lucas Silva,29,Feminino,Não,Sim,Baixo,Alta,Não,Moderado,Sim,Não,Não,Não,91.6,Não,Não,Sim,Alto,Não,78.9,1.63,29.7,Risco
+Tiago Gomes 34,48,Masculino,Sim,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,98.5,Não,Não,Não,Alto,Não,69.4,1.59,27.5,Risco
+Lucas Barbosa,45,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,98.6,Não,Sim,Não,Moderado,Não,38.9,1.65,14.3,Sem Risco
+Larissa Moura,42,Masculino,Não,Não,Moderado,Alta,Sim,Baixo,Não,Não,Sim,Não,94.2,Não,Não,Não,Baixo,Sim,62.5,1.68,22.1,Sem Risco
+Felipe Nunes,20,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Sim,96.9,Não,Não,Não,Baixo,Não,87.3,1.51,38.3,Sem Risco
+André Ferreira,55,Masculino,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Sim,96.7,Não,Não,Não,Moderado,Não,80.5,1.58,32.2,Sem Risco
+Maria Araújo,33,Não declarado,Sim,Sim,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,90.7,Não,Não,Sim,Baixo,Não,67.7,,,Risco
+Ana Araújo,38,Não declarado,Não,Não,Baixo,Média,Não,Baixo,Sim,Não,Não,Não,95.0,Não,Não,Não,Moderado,Não,62.2,1.67,22.3,Sem Risco
+Pedro Oliveira,65,Feminino,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.5,Não,Sim,Não,Moderado,Não,89.6,1.7,31.0,Risco
+Pedro Lima,53,Outro,Não,Não,Moderado,Média,Não,Baixo,Não,Sim,Não,Não,96.4,Não,Não,Não,Moderado,Sim,57.8,1.7,20.0,Risco
+Gustavo Freitas,64,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Sim,Não,95.2,Não,Não,Não,Moderado,Não,56.3,1.76,18.2,Sem Risco
+André Freitas,70,Masculino,Não,Não,Baixo,Média,Não,Moderado,Sim,Não,Não,Não,95.5,Não,Não,Não,Moderado,Não,75.5,1.67,27.1,Sem Risco
+Paula Costa,34,Feminino,Não,Não,Alto,Média,Não,Baixo,Não,Sim,Não,Não,98.2,Não,Não,Não,Baixo,Não,98.0,1.75,32.0,Sem Risco
+Camila Gomes,49,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,100.3,Não,Não,Não,Moderado,Não,98.7,1.64,36.7,Sem Risco
+Camila Souza,48,Outro,Sim,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,93.3,Não,Não,Não,Baixo,Não,61.7,1.71,21.1,Risco
+Rafael Rodrigues,48,Não declarado,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,94.2,Não,Não,Não,Moderado,Não,72.0,1.63,27.1,Sem Risco
+Pedro Oliveira,46,Masculino,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,98.5,Não,Não,Sim,Moderado,Não,79.9,1.67,28.6,Sem Risco
+Camila Souza,44,Outro,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Sim,,98.0,Sim,Não,Sim,Baixo,Não,44.9,1.68,15.9,Sem Risco
+Lucas Moreira,62,Outro,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Sim,Não,96.5,Não,Não,Não,Moderado,Não,59.3,1.7,20.5,Sem Risco
+Ana Barbosa,35,Não declarado,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Sim,Não,97.8,Não,Não,Não,Baixo,Não,79.6,1.67,28.5,Sem Risco
+Maria Ferreira,74,Outro,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,96.6,Não,Não,Sim,Baixo,Não,88.2,1.7,30.5,Risco
+Ana Dias,43,Feminino,Não,Não,Alto,Baixa,Sim,Moderado,Não,Não,Não,Não,92.8,Não,Não,Não,Moderado,Não,95.7,1.71,32.7,Sem Risco
+Larissa Alves,63,Outro,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,,Não,Não,Não,Baixo,Sim,105.9,1.61,40.9,Risco
+Paula Rodrigues,52,Outro,Sim,Sim,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.7,Não,Não,Não,Baixo,Não,121.9,1.61,47.0,Sem Risco
+Tiago Alves,56,Masculino,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,94.6,Não,Não,Sim,Alto,Não,66.8,1.62,25.5,Sem Risco
+Carolina Ribeiro,28,Outro,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,100.1,Não,Não,Não,Baixo,Não,44.0,1.67,15.8,Sem Risco
+Fernanda Gomes,54,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Sim,99.5,Não,Não,Não,Baixo,Não,39.5,1.69,13.8,Sem Risco
+Lucas Dias,46,Masculino,Não,Não,Moderado,Alta,Sim,Baixo,Não,Não,Não,Não,97.2,Não,Não,Sim,Moderado,Não,51.7,1.62,19.7,Sem Risco
+Lucas Silva,64,Feminino,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,98.0,Não,Não,Não,Baixo,Sim,73.6,1.66,26.7,Risco
+Gustavo Barbosa,32,Feminino,Não,Não,Baixo,Média,Não,Baixo,Sim,Não,Não,Não,92.7,Não,Não,Não,Moderado,Não,65.8,1.89,18.4,Sem Risco
+Beatriz Ferreira,59,Masculino,Sim,Não,Moderado,Alta,Não,Baixo,Não,Sim,Não,,100.1,Não,Não,Sim,Baixo,Não,84.8,1.72,28.7,Risco
+Maria Lima,49,Masculino,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,94.4,Não,Não,Sim,Alto,Não,63.0,1.75,20.6,Sem Risco
+Pedro Ribeiro,54,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,94.1,Não,Não,Não,Moderado,Não,80.1,1.88,22.7,Sem Risco
+Larissa Freitas,46,Outro,Não,Não,Alto,Média,Sim,Moderado,Não,Sim,Sim,Não,101.1,Não,Não,Não,Baixo,Não,56.6,1.71,19.4,Sem Risco
+Carlos Nunes,59,Não declarado,Não,Não,Moderado,Média,Sim,Moderado,Não,Não,Não,Não,99.0,Não,Não,Não,Baixo,Não,92.9,1.71,31.8,Sem Risco
+Ana Ferreira,80,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Não,Não,98.5,Não,Não,Não,Moderado,Não,58.8,1.62,22.4,Sem Risco
+André Ferreira,69,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Sim,Não,97.8,Não,Não,Não,Alto,Sim,84.0,1.72,28.4,Sem Risco
+Carolina Santos 39,71,Feminino,Sim,Sim,Moderado,Baixa,Não,Alto,Não,Não,Sim,Não,103.4,Não,Não,Não,Moderado,Não,86.0,1.63,32.4,Risco
+Lucas Ribeiro,45,Masculino,Sim,Não,Baixo,Alta,Não,Baixo,Não,Sim,Não,Não,94.4,Não,Não,Não,Baixo,Não,78.5,1.86,22.7,Risco
+João Araújo,48,Feminino,Não,Não,Baixo,Alta,Sim,Alto,Não,Não,Não,Sim,,Não,Não,Não,Moderado,Não,66.4,1.62,25.3,Sem Risco
+Lucas Martins,58,Feminino,Sim,Sim,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,98.1,Não,Não,Não,Baixo,Não,72.5,1.85,21.2,Risco
+André Moreira,29,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Sim,96.0,Não,Não,Não,Moderado,Não,94.2,1.6,36.8,Sem Risco
+Pedro Martins,27,Masculino,Sim,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Sim,Não,95.8,Não,Sim,Não,Baixo,Não,79.3,1.79,24.7,Sem Risco
+Camila Silva,78,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,92.3,Não,Não,Não,Moderado,Não,85.8,1.67,30.8,Sem Risco
+Gabriel Dias,52,Não declarado,Não,Não,Alto,Baixa,Não,Baixo,Sim,Não,Não,Não,96.1,Não,Não,Não,Moderado,Não,87.9,1.66,31.9,Sem Risco
+Camila Ferreira,55,Masculino,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,100.5,Não,Não,Sim,Moderado,Não,75.6,1.73,25.3,Sem Risco
+Gabriel Pereira,49,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,99.4,Não,Sim,Não,Alto,Não,62.4,1.74,20.6,Sem Risco
+Beatriz Oliveira,59,Masculino,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.3,Não,Não,Não,Baixo,Não,72.8,1.65,26.7,Sem Risco
+Mariana Barbosa,61,Masculino,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,99.8,Não,Não,Não,Moderado,Não,65.7,1.9,18.2,Sem Risco
+Gustavo Ferreira,28,Feminino,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,95.8,Não,Não,Não,Baixo,Não,64.1,1.69,22.4,Sem Risco
+Gabriel Pereira,45,Masculino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,96.6,Não,Não,Não,Baixo,Não,69.0,1.52,29.9,Sem Risco
+André Nunes,60,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,98.3,Não,Não,Não,Baixo,Não,75.4,1.8,23.3,Sem Risco
+Beatriz Lima,76,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,93.4,Não,Não,Não,Moderado,Não,92.6,1.62,35.3,Sem Risco
+Rafael Costa,35,Feminino,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,97.7,Não,Não,Sim,Baixo,Não,50.9,1.73,17.0,Sem Risco
+Pedro Pereira,54,Não declarado,Não,Não,Moderado,Média,Sim,Alto,Não,Não,Não,Não,96.4,Não,Não,Não,Baixo,Não,43.1,1.67,15.5,Sem Risco
+Felipe Dias,55,Não declarado,Não,Não,Baixo,Média,Não,Baixo,Não,Sim,Sim,Sim,95.8,Não,Sim,Não,Baixo,Não,44.2,1.73,14.8,Risco
+Tiago Freitas,26,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.5,Não,Sim,Não,Baixo,Não,46.9,1.79,14.6,Sem Risco
+Lucas Moura,56,Não declarado,Sim,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,98.0,Não,Não,Não,Baixo,Não,92.4,1.76,29.8,Sem Risco
+Fernanda Ribeiro,47,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,,Não,Não,Não,Alto,Não,86.5,,,Sem Risco
+André Oliveira,66,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,93.1,Sim,Não,Não,Alto,Não,,1.73,,Sem Risco
+Maria Santos,56,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,98.2,Não,Não,Não,Moderado,Não,54.7,1.84,16.2,Sem Risco
+Pedro Oliveira,32,Não declarado,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,97.0,Não,Não,Não,Moderado,Não,77.7,1.76,25.1,Sem Risco
+Felipe Dias,46,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,93.7,Não,Não,Não,Moderado,Sim,83.6,1.66,30.3,Risco
+Felipe Dias,43,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,100.9,Não,Não,Não,Moderado,Não,91.7,1.74,30.3,Sem Risco
+Carolina Araújo,36,Masculino,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,97.5,Não,Não,Não,Moderado,Não,78.9,1.55,32.8,Sem Risco
+Felipe Souza,32,Outro,Sim,Não,Moderado,Média,Sim,Moderado,Não,Não,Sim,Não,96.6,Não,Sim,Não,Baixo,Não,83.7,1.58,33.5,Risco
+Pedro Nunes,42,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.9,Não,Não,Não,Baixo,Não,87.8,1.69,30.7,Sem Risco
+Mariana Moura,51,Feminino,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Sim,Não,96.8,Não,Não,Sim,Alto,Não,81.6,,,Sem Risco
+Beatriz Rodrigues,61,Não declarado,Sim,Não,Baixo,Baixa,Não,Baixo,Não,Não,Sim,,98.9,Não,Não,Sim,Baixo,Não,61.3,1.61,23.6,Sem Risco
+Camila Gomes,58,Masculino,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,97.4,Não,Não,Não,Baixo,Não,71.8,1.7,24.8,Sem Risco
+Gabriel Oliveira,68,Não declarado,Não,Não,Baixo,Alta,Não,Alto,Não,Não,Não,Não,97.7,Não,Não,Não,Baixo,Não,81.8,1.64,30.4,Sem Risco
+Fernanda Ribeiro,67,Feminino,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,98.2,Não,Não,Não,Baixo,Não,63.7,1.75,20.8,Sem Risco
+Gabriel Oliveira,44,Feminino,Não,Não,Alto,Média,Não,Moderado,Não,Sim,Não,Não,97.9,Não,Não,Não,Baixo,Não,63.7,1.86,18.4,Sem Risco
+Beatriz Ferreira,71,Não declarado,Sim,Não,Alto,Baixa,Não,Alto,Sim,Não,Não,Não,,Não,Sim,Sim,Alto,Não,96.0,1.7,33.2,Risco
+Lucas Freitas,61,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,94.2,Não,Não,Não,Baixo,Não,46.9,1.54,19.8,Sem Risco
+Fernanda Moreira,28,Outro,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Sim,95.9,Não,Não,Não,Moderado,Não,89.2,1.65,32.8,Sem Risco
+Lucas Nunes,45,Não declarado,Sim,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,,Não,Sim,Não,Baixo,Não,59.3,1.78,18.7,Risco
+André Rodrigues 40,36,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Sim,103.2,Não,Não,Não,Moderado,Não,107.0,1.72,36.2,Sem Risco
+Carlos Gomes,40,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,93.7,Não,Não,Não,Baixo,Sim,103.4,1.84,30.5,Sem Risco
+Carlos Alves,31,Feminino,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Não,Baixo,Não,92.2,1.7,31.9,Sem Risco
+Pedro Ferreira,31,Masculino,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,96.1,Não,Não,Não,Moderado,Não,70.6,1.4,36.0,Sem Risco
+André Moreira,41,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,101.3,Não,Não,Não,Baixo,Não,71.6,1.58,28.7,Sem Risco
+Gabriel Freitas,22,Não declarado,Não,Não,Baixo,Alta,Sim,Baixo,Não,Não,Não,Não,99.7,Não,Não,Não,Moderado,Não,88.4,1.7,30.6,Sem Risco
+Lucas Pereira,49,Feminino,Não,Não,Alto,Baixa,Não,Alto,Não,Não,Sim,Não,95.5,Não,Sim,Não,Moderado,Não,106.7,1.8,32.9,Sem Risco
+Felipe Santos,69,Feminino,Não,Não,Alto,Baixa,Não,Baixo,Não,Sim,Sim,Não,92.1,Não,Não,Não,Moderado,Sim,92.9,1.65,34.1,Risco
+Felipe Freitas,44,Não declarado,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Sim,Não,Não,95.8,Não,Não,Não,Moderado,Não,98.2,1.83,29.3,Sem Risco
+Mariana Moreira,43,Não declarado,Sim,Não,Moderado,Média,Não,Moderado,Não,Sim,Não,Não,98.0,Não,Não,Não,Baixo,Não,77.2,1.72,26.1,Risco
+Carlos Rodrigues,38,Não declarado,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,97.6,Não,Não,Não,Baixo,Não,78.2,1.69,27.4,Sem Risco
+Felipe Ferreira,62,Não declarado,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Sim,97.8,Não,Não,Não,Baixo,Não,49.1,1.76,15.9,Sem Risco
+Luiza Costa,66,Feminino,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,100.5,Não,Não,Não,Baixo,Não,78.8,1.78,24.9,Sem Risco
+Rafael Santos,57,Outro,Não,Não,Baixo,Baixa,Sim,Baixo,Não,Sim,Sim,Não,92.7,Sim,Não,Não,Alto,Não,80.6,1.53,34.4,Sem Risco
+Paula Souza,21,Masculino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,94.7,Não,Não,Não,Moderado,Sim,98.1,1.53,41.9,Sem Risco
+Fernanda Oliveira,46,Outro,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,96.5,Não,Não,Não,Moderado,Sim,71.0,1.84,21.0,Sem Risco
+Felipe Nunes,59,Não declarado,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,99.3,Não,Não,Sim,Moderado,Não,94.3,1.7,32.6,Sem Risco
+Pedro Alves,67,Outro,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,97.9,Não,Não,Não,Moderado,Não,109.3,1.66,39.7,Sem Risco
+João Barbosa,70,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.9,Não,Não,Sim,Alto,Não,69.1,1.84,20.4,Sem Risco
+Mariana Martins,45,Outro,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,104.8,Não,Não,Não,Moderado,Não,69.9,1.63,26.3,Sem Risco
+Mariana Silva,45,Masculino,Sim,Não,Moderado,Média,Sim,Moderado,Não,Sim,Não,Não,96.1,Não,Não,Sim,Alto,Não,88.8,1.86,25.7,Risco
+Gabriel Lima,75,Outro,Não,Não,Alto,Alta,Sim,Moderado,Sim,Não,Não,Não,97.0,Não,Não,Sim,Moderado,Não,85.2,1.67,30.5,Sem Risco
+Larissa Lima,45,Não declarado,Sim,Não,Moderado,Média,Não,Baixo,Sim,Não,Não,Não,101.3,Não,Não,Não,Moderado,Não,33.7,1.64,12.5,Sem Risco
+Felipe Freitas 11,36,Masculino,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,94.4,Não,Sim,Não,Baixo,Não,62.9,1.6,24.6,Sem Risco
+Rafael Costa,30,Não declarado,Não,Sim,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,94.6,Não,Não,Não,Moderado,Não,113.5,1.83,33.9,Sem Risco
+Ana Ferreira,47,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,92.7,Não,Não,Não,Baixo,Não,99.8,1.59,39.5,Sem Risco
+Maria Alves,30,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.3,Não,Não,Não,Baixo,Não,85.1,1.88,24.1,Sem Risco
+Pedro Souza,56,Não declarado,Não,Não,Baixo,Baixa,Não,Baixo,Sim,Não,Não,Não,98.0,Não,Não,Não,Moderado,Não,68.7,1.62,26.2,Sem Risco
+Carolina Moreira 66,67,Feminino,Sim,Sim,Alto,Baixa,Não,Moderado,Não,Não,Não,Sim,98.0,Não,Não,Não,Moderado,Não,74.6,1.74,24.6,Risco
+Lucas Ferreira,58,Outro,Não,Sim,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,94.7,Não,Não,Não,Moderado,Não,59.6,1.7,20.6,Sem Risco
+Mariana Dias,50,Masculino,Sim,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,95.3,Não,Não,Não,Moderado,Não,62.0,1.79,19.4,Risco
+André Rodrigues,39,Masculino,Não,Sim,Alto,Média,Não,Moderado,Não,Não,Sim,Não,,Não,Não,Não,Alto,Não,97.3,1.6,38.0,Sem Risco
+Gustavo Araújo,48,Não declarado,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Não,Não,,Não,Sim,Não,Moderado,Não,81.8,1.77,26.1,Sem Risco
+Beatriz Ribeiro,39,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Não,Moderado,Sim,55.0,1.77,17.6,Sem Risco
+Pedro Rodrigues,60,Masculino,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Sim,100.7,Não,Não,Sim,Alto,Não,93.2,1.66,33.8,Sem Risco
+Tiago Gomes,49,Outro,Sim,Não,Baixo,Baixa,Não,Baixo,Não,Sim,Não,Não,95.9,Não,Não,Não,Moderado,Não,106.9,1.7,37.0,Sem Risco
+Paula Gomes,18,Feminino,Não,Não,Alto,Baixa,Não,Moderado,Sim,Sim,Sim,Não,98.6,Não,Não,Não,Baixo,Não,83.4,1.55,34.7,Sem Risco
+Felipe Araújo,42,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,93.9,Não,Não,Sim,Moderado,Não,79.9,1.67,28.6,Sem Risco
+Pedro Moura,60,Feminino,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,99.6,Não,Não,Não,Baixo,Não,92.9,1.72,31.4,Risco
+Maria Costa,52,Outro,Sim,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,95.2,Não,Não,Não,Moderado,Não,68.3,1.62,26.0,Sem Risco
+Fernanda Nunes,57,Não declarado,Sim,Não,Moderado,Média,Não,Moderado,Sim,Não,Não,Sim,97.2,Não,Não,Não,Moderado,Não,61.5,1.67,22.1,Sem Risco
+Rafael Santos,19,Feminino,Não,Sim,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.2,Não,Não,Não,Moderado,Não,55.2,1.73,18.4,Sem Risco
+Fernanda Rodrigues,57,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,94.7,Não,Não,Não,Baixo,Não,86.0,1.63,32.4,Sem Risco
+Gabriel Ribeiro,41,Outro,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Sim,98.4,Não,Não,Sim,Baixo,Não,61.0,1.78,19.3,Sem Risco
+Camila Martins,45,Não declarado,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,98.4,Não,Não,Não,Alto,Não,97.5,1.76,31.5,Sem Risco
+Gabriel Pereira,43,Não declarado,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,93.9,Não,Não,Sim,Baixo,Não,72.8,1.7,25.2,Sem Risco
+Beatriz Nunes,33,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,101.5,Não,Sim,Não,Baixo,Não,78.8,1.71,26.9,Sem Risco
+Camila Oliveira,66,Feminino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.8,Não,Não,Sim,Baixo,Não,90.3,1.62,34.4,Sem Risco
+Paula Ferreira,39,Masculino,Não,Não,Baixo,Média,Não,Moderado,Não,Sim,Não,,97.9,Não,Sim,Não,Baixo,Não,79.1,1.81,24.1,Sem Risco
+Gabriel Ferreira,29,Não declarado,Não,Não,Baixo,Média,Não,Baixo,Não,Sim,Sim,Não,96.2,Não,Não,Não,Moderado,Não,88.8,1.73,29.7,Sem Risco
+Luiza Moura,61,Masculino,Sim,Não,Moderado,Média,Sim,Baixo,Não,Sim,Não,Não,99.3,Não,Não,Sim,Baixo,Sim,87.6,1.68,31.0,Risco
+Beatriz Freitas,44,Outro,Sim,Não,Baixo,Alta,Não,Moderado,Não,Sim,Não,Não,96.1,Não,Não,Não,Baixo,Não,77.0,1.61,29.7,Risco
+Maria Oliveira,30,Não declarado,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.4,Não,Não,Não,Moderado,Não,100.9,1.87,28.9,Sem Risco
+Beatriz Nunes,39,Feminino,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,97.8,Não,Não,Não,Moderado,Não,49.6,1.76,16.0,Sem Risco
+João Lima,43,Não declarado,Não,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,92.0,Não,Não,Não,Baixo,Não,89.6,1.77,28.6,Sem Risco
+Maria Lima,43,Outro,Sim,Não,Baixo,Baixa,Sim,Baixo,Não,Sim,Não,Não,97.0,Não,Não,Não,Moderado,Sim,82.5,1.77,26.3,Risco
+Beatriz Martins,42,Masculino,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,95.7,Não,Não,Não,Moderado,Não,48.4,1.73,16.2,Sem Risco
+Carolina Lima,53,Outro,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,94.6,Não,Não,Sim,Alto,Não,107.6,1.76,34.7,Sem Risco
+Beatriz Moura,68,Feminino,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,95.8,Não,Não,Não,Alto,Não,63.2,1.77,20.2,Sem Risco
+André Rodrigues,46,Outro,Sim,Não,Baixo,Média,Sim,Moderado,Sim,Não,Não,Não,101.7,Não,Não,Não,Moderado,Não,87.2,,,Sem Risco
+Mariana Souza,60,Feminino,Não,Sim,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,101.8,Não,Não,Não,Baixo,Sim,72.3,1.82,21.8,Risco
+Larissa Nunes,77,Masculino,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,99.4,Não,Não,Sim,Baixo,Não,106.9,1.6,41.8,Sem Risco
+Rafael Ribeiro,68,Feminino,Não,Não,Alto,Baixa,Sim,Moderado,Não,Sim,Não,Não,93.7,Não,Não,Não,Baixo,Não,58.6,1.71,20.0,Sem Risco
+Carolina Ferreira,40,Não declarado,Sim,Não,Alto,Baixa,Sim,Moderado,Não,Não,Não,Não,98.2,Não,Sim,Não,Moderado,Não,105.2,1.74,34.7,Sem Risco
+Carlos Souza,60,Masculino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,,96.0,Não,Não,Não,Baixo,Não,62.2,1.78,19.6,Sem Risco
+Felipe Pereira,48,Não declarado,Não,Não,Moderado,Média,Não,Alto,Não,Sim,Não,Não,103.6,Não,Não,Não,Moderado,Não,112.8,1.67,40.4,Sem Risco
+Pedro Gomes,57,Masculino,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Sim,Não,96.5,Não,Não,Não,Alto,Não,91.2,1.61,35.2,Sem Risco
+Paula Moreira,51,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Sim,Não,101.6,Não,Não,Não,Alto,Não,65.6,1.71,22.4,Sem Risco
+Luiza Pereira,22,Feminino,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,94.5,Não,Não,Não,Baixo,Não,66.7,1.69,23.4,Sem Risco
+Ana Costa,41,Feminino,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,99.8,Não,Não,Não,Moderado,Não,73.3,1.68,26.0,Sem Risco
+Larissa Silva,77,Outro,Não,Sim,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.5,Não,Não,Sim,Baixo,Não,61.8,1.73,20.6,Sem Risco
+Felipe Moreira,40,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,97.6,Não,Não,Sim,Baixo,Não,91.4,1.69,32.0,Sem Risco
+Pedro Ferreira,66,Não declarado,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,,Não,Não,Não,Moderado,Não,67.4,1.58,27.0,Sem Risco
+André Barbosa,42,Masculino,Não,Não,Moderado,Média,Não,Alto,Não,Sim,Não,,94.4,Não,Sim,Não,Baixo,Não,93.5,1.77,29.8,Risco
+Lucas Gomes,50,Não declarado,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,98.5,Sim,Sim,Sim,Moderado,Não,73.2,1.82,22.1,Sem Risco
+Felipe Nunes,50,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.4,Não,Não,Não,Moderado,Não,79.9,1.65,29.3,Sem Risco
+Lucas Barbosa,34,Masculino,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Sim,Não,96.9,Não,Não,Não,Moderado,Não,75.6,1.68,26.8,Sem Risco
+Ana Nunes,50,Feminino,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Sim,Não,98.8,Não,Não,Não,Moderado,Não,70.1,1.68,24.8,Sem Risco
+Luiza Gomes,30,Feminino,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Sim,Não,101.4,Não,Não,Não,Moderado,Não,86.5,1.73,28.9,Sem Risco
+Beatriz Nunes,51,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,90.9,Não,Não,Não,Moderado,Não,65.6,1.76,21.2,Sem Risco
+Rafael Costa,59,Outro,Sim,Não,Alto,Baixa,Não,Baixo,Sim,Não,Não,Não,99.1,Não,Não,Não,Moderado,Não,87.4,1.68,31.0,Sem Risco
+Lucas Ferreira,39,Masculino,Não,Não,Moderado,Baixa,Sim,Baixo,Não,Sim,Não,Não,96.9,Não,Não,Sim,Moderado,Não,60.0,1.74,19.8,Sem Risco
+André Pereira,41,Feminino,Sim,Não,Baixo,Média,Não,Moderado,Sim,Não,Sim,Não,101.2,Não,Não,Não,Moderado,Não,74.5,1.58,29.8,Sem Risco
+Luiza Freitas,57,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,102.5,Sim,Não,Não,Baixo,Não,83.1,1.76,26.8,Sem Risco
+Tiago Santos,28,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,100.4,Não,Não,Não,Moderado,Não,73.2,1.7,25.3,Sem Risco
+Pedro Santos,53,Outro,Sim,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,94.5,Não,Não,Não,Moderado,Não,69.1,,,Risco
+Carlos Dias,58,Masculino,Sim,Não,Moderado,Alta,Não,Moderado,Sim,Não,Sim,Não,98.6,Não,Não,Não,Moderado,Não,70.6,1.61,27.2,Risco
+Larissa Moreira,62,Outro,Sim,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,95.9,Não,Não,Não,Moderado,Não,63.7,1.76,20.6,Sem Risco
+Larissa Alves,53,Não declarado,Não,Sim,Alto,Alta,Não,Baixo,Não,Não,Não,Não,95.2,Não,Não,Não,Moderado,Não,76.6,1.8,23.6,Sem Risco
+Fernanda Moura,60,Masculino,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.5,Não,Não,Não,Baixo,Não,65.0,1.7,22.5,Sem Risco
+Luiza Moura,39,Não declarado,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Não,Não,96.5,Não,Não,Não,Moderado,Não,76.6,1.68,27.1,Sem Risco
+Carlos Gomes,41,Outro,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,99.6,Não,Não,Não,Moderado,Não,61.0,1.75,19.9,Sem Risco
+Gabriel Rodrigues,82,Feminino,Sim,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,,96.7,Não,Não,Não,Baixo,Não,58.1,1.67,20.8,Sem Risco
+Beatriz Nunes,69,Outro,Não,Não,Baixo,Média,Sim,Alto,Não,Não,Sim,Não,99.9,Não,Sim,Não,Alto,Não,85.6,1.86,24.7,Sem Risco
+Mariana Moura,59,Não declarado,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.3,Não,Não,Não,Moderado,Não,89.9,1.85,26.3,Sem Risco
+Mariana Lima,53,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,99.0,Não,Não,Não,Baixo,Sim,80.2,1.74,26.5,Sem Risco
+Gustavo Freitas,51,Feminino,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Sim,Não,97.2,Não,Não,Não,Baixo,Não,101.9,1.65,37.4,Risco
+Gabriel Dias,72,Feminino,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Sim,Não,98.7,Não,Não,Não,Baixo,Não,92.4,1.77,29.5,Sem Risco
+Luiza Araújo,49,Não declarado,Não,Não,Alto,Baixa,Sim,Moderado,Não,Não,Não,Não,91.8,Não,Não,Não,Baixo,Não,66.7,1.84,19.7,Sem Risco
+Larissa Ferreira,46,Masculino,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,96.3,Não,Sim,Não,Moderado,Não,96.8,1.82,29.2,Sem Risco
+Gustavo Nunes,70,Feminino,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,97.5,Não,Não,Não,Baixo,Não,59.9,1.72,20.2,Sem Risco
+Carlos Dias,57,Masculino,Sim,Não,Moderado,Baixa,Não,Alto,Sim,Não,Não,Não,95.2,Não,Não,Não,Baixo,Não,60.5,1.77,19.3,Sem Risco
+Fernanda Araújo,37,Não declarado,Sim,Não,Baixo,Média,Não,Alto,Não,Não,Não,Não,97.1,Não,Não,Sim,Moderado,Não,83.7,1.82,25.3,Sem Risco
+Fernanda Moreira 14,60,Não declarado,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,93.6,Não,Não,Não,Moderado,Não,78.7,1.71,26.9,Sem Risco
+Lucas Ribeiro,61,Não declarado,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,100.2,Não,Não,Não,Moderado,Não,71.6,1.55,29.8,Risco
+Beatriz Santos,48,Feminino,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Sim,,93.6,Não,Não,Não,Alto,Não,86.3,1.73,28.8,Sem Risco
+Beatriz Moreira,59,Não declarado,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,96.4,Não,Não,Sim,Moderado,Não,71.6,1.63,26.9,Sem Risco
+André Moura,35,Outro,Não,Sim,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,94.9,Não,Não,Sim,Baixo,Não,83.7,1.62,31.9,Sem Risco
+Carolina Freitas,54,Masculino,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,,95.1,Não,Não,Não,Baixo,Sim,75.8,1.73,25.3,Risco
+Gustavo Rodrigues,45,Outro,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,97.5,Não,Não,Não,Alto,Não,73.9,,,Sem Risco
+Paula Rodrigues,66,Feminino,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,98.1,Não,Não,Não,Baixo,Não,73.4,1.82,22.2,Risco
+Carolina Nunes,38,Masculino,Não,Não,Moderado,Média,Não,Moderado,Sim,Não,Não,Não,95.5,Sim,Não,Não,Moderado,Não,90.5,1.63,34.1,Sem Risco
+Maria Santos,62,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Sim,96.7,Não,Não,Não,Alto,Não,80.8,1.84,23.9,Sem Risco
+Larissa Nunes,41,Feminino,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,99.7,Não,Não,Não,Moderado,Não,55.4,1.72,18.7,Sem Risco
+Gabriel Freitas,44,Não declarado,Não,Não,Moderado,Baixa,Não,Alto,Sim,Não,Não,Não,96.9,Não,Não,Sim,Moderado,Não,76.5,1.7,26.5,Sem Risco
+Carolina Ferreira,35,Não declarado,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,98.4,Não,Não,Não,Moderado,Não,67.8,1.55,28.2,Sem Risco
+Tiago Ferreira,26,Masculino,Não,Não,Alto,Média,Não,Moderado,Não,Não,Sim,Não,95.3,Não,Sim,Não,Alto,Não,89.0,1.82,26.9,Sem Risco
+Beatriz Gomes,69,Não declarado,Sim,Não,Moderado,Média,Não,Baixo,Não,Sim,Não,Não,98.1,Não,Não,Não,Moderado,Não,80.8,1.68,28.6,Risco
+Tiago Ferreira,49,Masculino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,,Não,Não,Não,Alto,Não,68.8,1.77,22.0,Sem Risco
+Carolina Araújo,41,Feminino,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Sim,Não,92.7,Não,Não,Não,Moderado,Não,73.4,1.88,20.8,Sem Risco
+Maria Dias,49,Não declarado,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,100.6,Não,Sim,Não,Alto,Não,75.4,1.69,26.4,Sem Risco
+Lucas Alves,46,Masculino,Não,Não,Alto,Alta,Não,Alto,Não,Não,Não,,101.0,Não,Não,Não,Moderado,Não,63.9,1.78,20.2,Sem Risco
+Carlos Silva,41,Não declarado,Não,Sim,Baixo,Alta,Não,Alto,Não,Não,Não,Não,99.8,Não,Não,Não,Moderado,Não,96.1,1.72,32.5,Sem Risco
+Lucas Barbosa,52,Não declarado,Sim,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,96.5,Não,Não,Sim,Moderado,Não,58.6,1.78,18.5,Risco
+André Freitas,41,Masculino,Não,Não,Baixo,Baixa,Não,Baixo,Não,Sim,Não,Não,91.9,Não,Não,Não,Alto,Não,65.9,1.85,19.3,Sem Risco
+Lucas Nunes,36,Outro,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,94.3,Não,Não,Não,Moderado,Não,91.0,1.83,27.2,Sem Risco
+Larissa Nunes,22,Feminino,Não,Não,Baixo,Baixa,Sim,Baixo,Sim,Não,Não,Não,95.5,Não,Não,Não,Moderado,Não,78.3,1.78,24.7,Sem Risco
+Felipe Moreira,75,Outro,Sim,Sim,Baixo,Baixa,Sim,Baixo,Não,Não,Não,Não,94.5,Não,Não,Não,Moderado,Não,103.9,1.74,34.3,Risco
+Rafael Freitas,24,Feminino,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,101.7,Não,Não,Não,Baixo,Não,71.3,1.66,25.9,Sem Risco
+Rafael Moreira,36,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,,99.7,Não,Não,Não,Alto,Não,80.9,1.62,30.8,Sem Risco
+Fernanda Costa,61,Não declarado,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,97.6,Não,Não,Sim,Moderado,Não,,1.77,,Sem Risco
+Gabriel Araújo,42,Outro,Sim,Sim,Moderado,Média,Não,Moderado,Não,Não,Não,Não,,Não,Não,Não,Alto,Não,69.5,1.66,25.2,Sem Risco
+Fernanda Souza,55,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,,92.5,Não,Sim,Não,Moderado,Não,93.4,1.77,29.8,Risco
+Gustavo Rodrigues,50,Feminino,Sim,Não,Alto,Alta,Não,Alto,Não,Não,Não,Não,98.8,Não,Não,Não,Alto,Sim,77.6,1.66,28.2,Risco
+Fernanda Santos,42,Masculino,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,94.2,Não,Não,Não,Moderado,Não,79.6,1.68,28.2,Sem Risco
+Beatriz Moura,60,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,97.1,Não,Não,Não,Moderado,Não,75.6,1.8,23.3,Sem Risco
+Carlos Costa,48,Outro,Sim,Não,Moderado,Baixa,Sim,Moderado,Não,Sim,Sim,Não,96.6,Sim,Não,Sim,Alto,Não,75.4,1.74,24.9,Risco
+Paula Ribeiro,58,Feminino,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Sim,Não,97.1,Não,Não,Sim,Baixo,Não,94.6,1.72,32.0,Sem Risco
+Mariana Santos,24,Feminino,Não,Não,Baixo,Média,Não,Alto,Não,Não,Não,Não,102.2,Não,Não,Não,Moderado,Não,70.8,1.72,23.9,Sem Risco
+Mariana Santos,35,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,94.0,Não,Não,Não,Moderado,Não,71.9,1.52,31.1,Sem Risco
+Larissa Souza,45,Feminino,Não,Sim,Moderado,Média,Não,Baixo,Não,Sim,Não,Não,97.6,Não,Não,Não,Baixo,Não,60.2,1.74,19.9,Sem Risco
+João Moreira,26,Feminino,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,95.5,Não,Não,Não,Baixo,Não,86.8,1.76,28.0,Sem Risco
+Camila Araújo,45,Feminino,Não,Não,Moderado,Média,Não,Moderado,Sim,Sim,Não,,97.8,Não,Sim,Não,Moderado,Não,63.2,1.75,20.6,Sem Risco
+Fernanda Gomes,42,Masculino,Não,Não,Baixo,Média,Não,Moderado,Sim,Sim,Não,Não,95.6,Não,Não,Não,Baixo,Não,93.1,1.73,31.1,Sem Risco
+Pedro Dias,45,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,97.2,Não,Não,Não,Moderado,Não,79.9,1.76,25.8,Sem Risco
+Luiza Barbosa,62,Feminino,Não,Não,Baixo,Média,Sim,Baixo,Não,Não,Não,Não,94.1,Não,Não,Não,Alto,Não,71.2,1.44,34.3,Sem Risco
+Maria Martins,68,Feminino,Não,Não,Baixo,Média,Não,Moderado,Não,Sim,Sim,Não,96.8,Não,Não,Não,Baixo,Não,94.9,1.76,30.6,Sem Risco
+Fernanda Santos 73,56,Masculino,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Sim,Não,92.4,Não,Sim,Não,Baixo,Não,63.0,1.81,19.2,Sem Risco
+Gabriel Ferreira,44,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Sim,Não,90.9,Não,Não,Não,Baixo,Não,116.0,1.68,41.1,Sem Risco
+Lucas Nunes,64,Feminino,Não,Não,Moderado,Alta,Sim,Moderado,Não,Não,Não,Não,93.3,Não,Não,Não,Baixo,Sim,77.0,1.74,25.4,Risco
+Ana Gomes,56,Não declarado,Sim,Não,Baixo,Média,Não,Alto,Não,Não,Sim,Não,98.6,Não,Não,Sim,Moderado,Não,97.0,1.59,38.4,Sem Risco
+Rafael Pereira 44,60,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,98.0,Não,Sim,Não,Baixo,Não,57.9,1.62,22.1,Risco
+Tiago Costa,54,Não declarado,Não,Sim,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.4,Não,Não,Não,Alto,Não,84.0,1.71,28.7,Sem Risco
+Camila Nunes,32,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Sim,Não,97.8,Não,Não,Não,Alto,Não,99.4,1.73,33.2,Sem Risco
+Ana Pereira,75,Não declarado,Não,Não,Moderado,Baixa,Não,Alto,Sim,Não,Não,,96.1,Não,Não,Não,Baixo,Não,83.8,1.8,25.9,Sem Risco
+Gabriel Alves 50,49,Feminino,Não,Não,Alto,Média,Sim,Moderado,Não,Sim,Sim,Não,97.0,Não,Não,Sim,Moderado,Não,67.2,1.79,21.0,Sem Risco
+Felipe Ribeiro,69,Outro,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Sim,Não,99.0,Não,Não,Sim,Moderado,Não,68.4,1.69,23.9,Sem Risco
+Tiago Dias 84,35,Outro,Sim,Não,Moderado,Média,Não,Moderado,Não,Sim,Sim,Não,96.0,Não,Não,Não,Alto,Não,71.9,1.77,22.9,Risco
+Mariana Santos,31,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Sim,90.8,Sim,Não,Sim,Baixo,Não,75.9,1.67,27.2,Risco
+Fernanda Pereira,42,Outro,Sim,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,96.5,Não,Não,Não,Moderado,Não,107.4,1.73,35.9,Sem Risco
+Ana Ferreira,59,Feminino,Não,Não,Moderado,Média,Sim,Moderado,Não,Não,Não,Não,94.2,Não,Não,Não,Baixo,Não,65.5,1.68,23.2,Sem Risco
+Mariana Lima,38,Não declarado,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Sim,Sim,94.9,Não,Não,Não,Moderado,Não,40.8,1.52,17.7,Sem Risco
+Carolina Rodrigues,43,Não declarado,Sim,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,,98.4,Não,Não,Não,Baixo,Não,88.3,1.68,31.3,Risco
+Paula Costa,48,Masculino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.2,Não,Não,Sim,Baixo,Não,75.1,1.77,24.0,Sem Risco
+André Moura,58,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.8,Não,Não,Sim,Baixo,Sim,69.0,1.71,23.6,Risco
+Pedro Dias,36,Feminino,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,99.0,Não,Não,Não,Moderado,Não,62.2,1.73,20.8,Sem Risco
+Tiago Moreira,60,Outro,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Sim,Não,95.0,Não,Não,Sim,Baixo,Não,74.1,1.71,25.3,Sem Risco
+André Moura,54,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.5,Não,Não,Não,Moderado,Não,72.2,1.94,19.2,Sem Risco
+Tiago Araújo,38,Não declarado,Não,Sim,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,98.4,Não,Não,Não,Moderado,Não,82.1,1.84,24.2,Sem Risco
+Maria Moura,58,Não declarado,Sim,Não,Moderado,Baixa,Sim,Alto,Não,Não,Não,Não,100.8,Não,Não,Não,Moderado,Sim,77.5,1.73,25.9,Sem Risco
+Felipe Dias,46,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Sim,Não,Sim,Não,98.4,Não,Não,Não,Moderado,Não,88.5,,,Sem Risco
+Fernanda Silva,54,Masculino,Sim,Não,Baixo,Média,Não,Baixo,Não,Sim,Não,Não,90.2,Não,Não,Não,Moderado,Não,87.4,1.72,29.5,Risco
+Carlos Dias,28,Não declarado,Sim,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,102.6,Não,Não,Não,Moderado,Não,55.6,1.68,19.7,Sem Risco
+Beatriz Oliveira,69,Masculino,Não,Não,Moderado,Média,Não,Alto,Não,Sim,Não,Não,97.3,Não,Não,Não,Baixo,Não,81.6,1.82,24.6,Sem Risco
+Pedro Araújo,51,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,96.7,Sim,Não,Não,Baixo,Não,82.1,1.79,25.6,Sem Risco
+Luiza Lima,54,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,97.1,Não,Não,Não,Baixo,Não,112.1,1.73,37.5,Sem Risco
+Beatriz Martins,65,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,93.8,Não,Não,Não,Alto,Sim,95.4,1.68,33.8,Risco
+Gustavo Oliveira,41,Feminino,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,98.3,Não,Não,Sim,Baixo,Não,65.9,1.75,21.5,Sem Risco
+Beatriz Souza,47,Não declarado,Sim,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,96.5,Sim,Não,Sim,Alto,Não,72.5,1.66,26.3,Sem Risco
+André Lima,49,Feminino,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Não,Sim,98.0,Sim,Não,Sim,Baixo,Não,62.2,1.53,26.6,Sem Risco
+João Silva,76,Não declarado,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,94.9,Não,Não,Não,Alto,Não,79.5,1.65,29.2,Sem Risco
+Paula Barbosa,38,Feminino,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.3,Não,Não,Não,Moderado,Não,92.8,1.74,30.7,Sem Risco
+Mariana Moura,33,Outro,Sim,Não,Alto,Média,Não,Baixo,Não,Não,Sim,Não,98.9,Não,Não,Sim,Baixo,Não,68.2,1.61,26.3,Sem Risco
+Carlos Souza,58,Não declarado,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,,Não,Não,Não,Baixo,Sim,63.8,1.71,21.8,Sem Risco
+Carolina Silva,56,Masculino,Sim,Não,Moderado,Média,Não,Alto,Sim,Não,Sim,Não,94.3,Não,Não,Sim,Baixo,Não,80.2,1.75,26.2,Risco
+Ana Freitas,45,Masculino,Não,Não,Moderado,Média,Não,Baixo,Não,Sim,Não,Não,96.6,Não,Não,Não,Moderado,Não,71.3,1.75,23.3,Sem Risco
+Mariana Santos,35,Feminino,Sim,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,96.8,Não,Sim,Não,Moderado,Não,78.0,,,Sem Risco
+Paula Costa,65,Masculino,Não,Não,Moderado,Média,Sim,Alto,Não,Não,Sim,Não,97.5,Sim,Não,Não,Moderado,Não,63.0,1.53,26.9,Sem Risco
+Lucas Nunes,41,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,93.4,Não,Não,Não,Baixo,Não,84.8,1.63,31.9,Sem Risco
+Tiago Gomes,40,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Sim,Não,103.6,Não,Não,Não,Moderado,Não,75.3,1.72,25.5,Sem Risco
+Mariana Ferreira,53,Feminino,Não,Não,Alto,Média,Sim,Moderado,Não,Não,Não,Não,92.2,Não,Não,Não,Moderado,Não,61.7,1.64,22.9,Sem Risco
+Camila Ferreira,27,Feminino,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,97.2,Não,Não,Não,Baixo,Não,93.1,1.7,32.2,Sem Risco
+Camila Moreira,75,Outro,Sim,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,95.4,Não,Não,Não,Baixo,Não,94.5,1.59,37.4,Risco
+Gustavo Nunes,48,Não declarado,Não,Não,Alto,Média,Sim,Moderado,Sim,Não,Não,Não,90.0,Não,Não,Não,Baixo,Não,61.6,1.74,20.3,Sem Risco
+Camila Lima,37,Feminino,Não,Não,Alto,Média,Não,Baixo,Não,Não,Não,Não,102.5,Não,Não,Sim,Moderado,Não,75.2,1.66,27.3,Sem Risco
+Paula Araújo,32,Feminino,Sim,Sim,Alto,Média,Não,Moderado,Não,Não,Não,Não,104.0,Não,Não,Sim,Baixo,Sim,65.9,1.69,23.1,Risco
+Fernanda Lima,55,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,95.8,Não,Não,Não,Baixo,Não,75.0,1.8,23.1,Sem Risco
+Paula Barbosa,53,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.3,Sim,Sim,Não,Baixo,Não,70.7,1.6,27.6,Sem Risco
+Gustavo Alves,41,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Sim,Não,Não,98.5,Não,Não,Sim,Moderado,Sim,107.5,1.73,35.9,Sem Risco
+Pedro Moura,42,Masculino,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Sim,Sim,92.8,Não,Não,Não,Moderado,Não,75.9,1.93,20.4,Sem Risco
+Paula Costa,25,Não declarado,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,103.1,Não,Não,Sim,Alto,Não,54.3,1.62,20.7,Sem Risco
+Carolina Freitas,40,Masculino,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,99.2,Não,Não,Não,Baixo,Não,59.4,1.66,21.6,Sem Risco
+Carlos Dias,64,Feminino,Não,Não,Moderado,Baixa,Não,Alto,Não,Sim,Sim,Não,92.8,Não,Não,Não,Baixo,Não,78.4,1.71,26.8,Sem Risco
+Larissa Costa,41,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Sim,Não,Sim,Não,93.3,Não,Não,Sim,Baixo,Não,61.9,1.77,19.8,Sem Risco
+Fernanda Silva,47,Feminino,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,94.2,Não,Não,Sim,Alto,Não,75.8,1.69,26.5,Sem Risco
+Ana Araújo,43,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,101.0,Não,Não,Não,Baixo,Sim,108.9,1.82,32.9,Sem Risco
+Gustavo Alves,56,Outro,Não,Não,Alto,Baixa,Não,Alto,Não,Não,Sim,Sim,93.4,Não,Não,Não,Baixo,Não,49.4,1.66,17.9,Sem Risco
+Gustavo Moura,40,Outro,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Sim,98.3,Não,Não,Não,Baixo,Não,93.0,1.78,29.4,Sem Risco
+Fernanda Ribeiro,42,Não declarado,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,100.3,Não,Não,Não,Alto,Não,69.8,1.65,25.6,Sem Risco
+Felipe Souza,36,Não declarado,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Sim,Não,98.5,Não,Não,Não,Baixo,Sim,63.9,1.62,24.3,Sem Risco
+Gabriel Costa,41,Não declarado,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Sim,Não,,98.2,Não,Não,Não,Moderado,Não,99.3,1.52,43.0,Sem Risco
+Maria Dias,29,Feminino,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.8,Não,Não,Não,Moderado,Não,99.4,1.69,34.8,Sem Risco
+João Ribeiro,51,Não declarado,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,,Não,Não,Não,Moderado,Não,66.0,1.7,22.8,Sem Risco
+Fernanda Lima,70,Feminino,Não,Não,Moderado,Média,Sim,Moderado,Não,Não,Não,Não,93.6,Não,Não,Não,Baixo,Não,81.7,1.7,28.3,Sem Risco
+Gustavo Dias,48,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,99.7,Não,Não,Não,Moderado,Não,67.9,1.69,23.8,Sem Risco
+Paula Gomes,18,Não declarado,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,93.8,Não,Não,Não,Moderado,Não,72.7,1.65,26.7,Sem Risco
+Larissa Moura,57,Outro,Sim,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,96.5,Não,Não,Não,Baixo,Sim,69.1,1.66,25.1,Risco
+Luiza Lima,52,Não declarado,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,99.9,Não,Não,Sim,Baixo,Não,94.6,1.48,43.2,Sem Risco
+Luiza Moreira,41,Masculino,Não,Não,Baixo,Baixa,Não,Alto,Sim,Não,Não,Não,97.6,Não,Não,Não,Baixo,Não,83.5,1.72,28.2,Sem Risco
+André Santos,35,Masculino,Não,Não,Baixo,Baixa,Sim,Baixo,Sim,Não,Sim,Não,94.5,Não,Não,Não,Moderado,Não,75.4,1.71,25.8,Sem Risco
+Maria Silva,45,Feminino,Não,Não,Alto,Média,Não,Moderado,Não,Não,Sim,,98.9,Sim,Não,Sim,Moderado,Não,60.3,1.64,22.4,Sem Risco
+Pedro Lima 65,65,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Sim,Não,96.2,Não,Sim,Sim,Baixo,Sim,101.4,1.61,39.1,Risco
+Beatriz Santos,43,Não declarado,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,100.0,Não,Não,Sim,Baixo,Não,83.6,1.61,32.3,Sem Risco
+Larissa Silva 71,55,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,95.6,Não,Não,Não,Moderado,Não,82.7,1.76,26.7,Sem Risco
+João Silva,55,Outro,Sim,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,92.6,Sim,Não,Sim,Moderado,Não,58.1,1.82,17.5,Risco
+Paula Ferreira 90,30,Não declarado,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,99.3,Não,Não,Não,Moderado,Não,99.3,1.81,30.3,Sem Risco
+Luiza Souza,44,Feminino,Sim,Não,Moderado,Alta,Não,Alto,Sim,Sim,Sim,Não,99.5,Sim,Não,Não,Baixo,Não,71.0,1.61,27.4,Risco
+Mariana Costa,59,Outro,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,92.7,Não,Não,Não,Baixo,Não,89.7,1.78,28.3,Risco
+Beatriz Ribeiro,54,Masculino,Não,Não,Alto,Alta,Sim,Baixo,Não,Não,Não,,98.2,Não,Sim,Sim,Baixo,Não,90.9,1.45,43.2,Sem Risco
+Beatriz Martins,52,Feminino,Sim,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,95.5,Não,Não,Não,Baixo,Sim,71.2,1.84,21.0,Risco
+Mariana Ferreira,53,Masculino,Não,Não,Alto,Baixa,Sim,Moderado,Não,Não,Não,Não,98.1,Não,Não,Sim,Alto,Não,37.1,1.7,12.8,Sem Risco
+Maria Oliveira,47,Não declarado,Não,Não,Alto,Média,Não,Moderado,Não,Não,Sim,Não,,Não,Não,Não,Baixo,Não,88.7,1.75,29.0,Sem Risco
+Paula Araújo,38,Masculino,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,97.6,Não,Não,Não,Baixo,Sim,95.7,1.87,27.4,Sem Risco
+Luiza Oliveira,36,Não declarado,Sim,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,95.8,Não,Não,Sim,Alto,Não,58.7,1.67,21.0,Sem Risco
+Gabriel Dias,37,Masculino,Não,Não,Baixo,Alta,Não,Alto,Não,Não,Não,Sim,96.3,Não,Não,Não,Alto,Não,83.7,1.76,27.0,Sem Risco
+André Santos,54,Não declarado,Não,Sim,Alto,Média,Não,Baixo,Não,Não,Não,Não,99.3,Não,Não,Sim,Moderado,Sim,79.1,1.91,21.7,Sem Risco
+Rafael Santos,38,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.7,Não,Não,Não,Moderado,Não,78.8,1.76,25.4,Sem Risco
+Paula Dias,35,Feminino,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,97.2,Não,Não,Sim,Moderado,Não,91.2,1.68,32.3,Sem Risco
+Gabriel Silva,46,Feminino,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,93.8,Sim,Não,Não,Baixo,Não,57.3,1.74,18.9,Sem Risco
+Gustavo Oliveira,55,Feminino,Não,Não,Baixo,Baixa,Sim,Moderado,Sim,Não,Sim,Não,91.0,Sim,Não,Não,Baixo,Não,65.8,1.76,21.2,Sem Risco
+Tiago Martins,20,Outro,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,95.2,Não,Não,Não,Baixo,Não,60.7,1.67,21.8,Sem Risco
+Gustavo Lima,44,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,97.9,Não,Não,Não,Baixo,Não,60.1,1.59,23.8,Sem Risco
+André Rodrigues,53,Não declarado,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,91.6,Não,Não,Sim,Moderado,Sim,97.3,1.69,34.1,Risco
+Mariana Oliveira,41,Não declarado,Sim,Não,Moderado,Alta,Não,Moderado,Não,Não,Sim,Não,100.6,Não,Sim,Não,Moderado,Não,83.3,1.59,32.9,Risco
+Gabriel Silva,37,Não declarado,Não,Não,Alto,Baixa,Não,Baixo,Não,Sim,Não,Não,104.1,Não,Não,Não,Moderado,Não,94.5,1.67,33.9,Sem Risco
+Larissa Alves,38,Não declarado,Não,Não,Alto,Baixa,Não,Alto,Não,Não,Não,Não,93.5,Não,Sim,Não,Moderado,Não,90.7,1.84,26.8,Sem Risco
+Camila Pereira,55,Não declarado,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,102.5,Não,Não,Não,Moderado,Não,95.6,1.8,29.5,Sem Risco
+Pedro Freitas,53,Feminino,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,,Não,Sim,Sim,Moderado,Não,79.1,1.8,24.4,Risco
+Pedro Oliveira,41,Não declarado,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,94.5,Não,Não,Não,Alto,Sim,113.0,1.82,34.1,Sem Risco
+Lucas Martins,39,Masculino,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Sim,96.7,Não,Não,Não,Alto,Não,89.5,1.7,31.0,Sem Risco
+Pedro Silva,54,Não declarado,Sim,Sim,Alto,Alta,Não,Alto,Não,Não,Não,Não,101.9,Não,Não,Não,Baixo,Não,66.9,1.64,24.9,Risco
+Beatriz Ribeiro,81,Masculino,Não,Sim,Moderado,Alta,Sim,Moderado,Não,Não,Não,Não,97.9,Não,Sim,Não,Alto,Não,96.9,,,Risco
+Luiza Barbosa,27,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,102.3,Não,Não,Sim,Moderado,Não,79.5,1.63,29.9,Sem Risco
+Ana Silva,46,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Sim,92.8,Não,Não,Não,Baixo,Não,92.7,1.83,27.7,Sem Risco
+Carolina Freitas,72,Não declarado,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,95.4,Não,Não,Não,Moderado,Não,85.7,1.77,27.4,Sem Risco
+João Ferreira,76,Masculino,Não,Não,Baixo,Média,Sim,Moderado,Não,Sim,Não,Não,97.1,Não,Não,Sim,Moderado,Não,90.8,1.77,29.0,Risco
+Paula Alves,52,Feminino,Não,Não,Alto,Baixa,Sim,Alto,Não,Não,Não,Sim,93.7,Não,Sim,Sim,Moderado,Não,77.7,1.69,27.2,Sem Risco
+Gustavo Pereira,60,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,98.5,Não,Não,Não,Moderado,Não,93.1,1.98,23.7,Sem Risco
+Rafael Araújo,33,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.5,Não,Não,Não,Baixo,Não,76.8,1.64,28.6,Sem Risco
+Camila Ribeiro,38,Não declarado,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,99.8,Não,Não,Não,Baixo,Não,56.0,1.7,19.4,Sem Risco
+Pedro Rodrigues,57,Feminino,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,94.5,Não,Não,Não,Baixo,Não,88.8,1.81,27.1,Sem Risco
+Larissa Freitas,71,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,97.0,Não,Não,Não,Moderado,Não,64.4,1.76,20.8,Sem Risco
+Ana Lima,43,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,97.5,Não,Não,Não,Alto,Não,72.1,1.7,24.9,Sem Risco
+Gabriel Freitas,45,Outro,Não,Não,Alto,Média,Sim,Alto,Não,Não,Sim,Não,94.2,Não,Não,Sim,Baixo,Sim,72.6,1.68,25.7,Sem Risco
+Felipe Gomes,55,Feminino,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,93.7,Não,Não,Sim,Moderado,Não,52.3,1.79,16.3,Sem Risco
+Fernanda Gomes,44,Feminino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,,Sim,Não,Não,Baixo,Não,84.2,1.72,28.5,Sem Risco
+Larissa Gomes,67,Não declarado,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,101.9,Não,Não,Sim,Moderado,Não,89.9,1.65,33.0,Sem Risco
+Gabriel Ferreira,61,Não declarado,Não,Não,Moderado,Alta,Não,Baixo,Não,Não,Sim,Não,99.0,Não,Não,Não,Moderado,Não,49.4,1.69,17.3,Sem Risco
+Tiago Alves,40,Outro,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,98.2,Não,Não,Não,Baixo,Não,83.8,1.46,39.3,Risco
+Gustavo Rodrigues,34,Feminino,Sim,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,95.0,Não,Não,Não,Moderado,Não,95.1,1.71,32.5,Sem Risco
+Tiago Moreira,44,Masculino,Não,Não,Alto,Alta,Não,Baixo,Sim,Sim,Não,,96.1,Não,Não,Não,Alto,Não,76.5,1.61,29.5,Sem Risco
+Felipe Costa,48,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,97.5,Não,Não,Não,Alto,Não,85.5,1.65,31.4,Sem Risco
+Pedro Barbosa,78,Feminino,Sim,Não,Moderado,Baixa,Sim,Baixo,Não,Não,Não,Não,95.6,Não,Não,Não,Baixo,Não,76.5,1.77,24.4,Risco
+Fernanda Alves,62,Feminino,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Não,,,Não,Não,Não,Baixo,Não,65.2,1.75,21.3,Sem Risco
+Camila Martins,58,Não declarado,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,,Não,Sim,Não,Moderado,Não,96.9,1.71,33.1,Sem Risco
+Tiago Martins,36,Não declarado,Sim,Sim,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,100.9,Não,Não,Não,Moderado,Não,75.5,1.76,24.4,Sem Risco
+Paula Santos,46,Outro,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,97.0,Não,Não,Não,Baixo,Não,80.5,1.74,26.6,Sem Risco
+Paula Freitas,51,Masculino,Sim,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,96.2,Não,Não,Não,Baixo,Não,63.3,1.6,24.7,Sem Risco
+Ana Alves,63,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.2,Não,Não,Sim,Alto,Não,81.5,1.71,27.9,Sem Risco
+Luiza Freitas,46,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.2,Não,Não,Sim,Moderado,Não,59.1,1.72,20.0,Sem Risco
+Gabriel Barbosa,58,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Sim,Não,97.7,Não,Não,Sim,Moderado,Não,100.2,1.77,32.0,Sem Risco
+Rafael Alves,66,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Sim,Não,94.3,Não,Não,Não,Alto,Não,84.8,1.75,27.7,Sem Risco
+Felipe Rodrigues,52,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,97.5,Não,Não,Sim,Moderado,Não,101.4,1.97,26.1,Sem Risco
+Beatriz Silva,54,Outro,Sim,Não,Moderado,Média,Não,Moderado,Sim,Não,Não,Não,96.3,Não,Não,Sim,Moderado,Não,68.6,1.67,24.6,Sem Risco
+Camila Oliveira,48,Feminino,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,99.2,Não,Não,Sim,Baixo,Não,108.8,1.66,39.5,Sem Risco
+Beatriz Ferreira,51,Feminino,Sim,Não,Baixo,Baixa,Sim,Baixo,Não,Não,Não,Não,93.5,Não,Não,Sim,Moderado,Não,69.2,1.6,27.0,Sem Risco
+André Araújo,56,Masculino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.4,Não,Não,Não,Moderado,Não,87.3,1.77,27.9,Sem Risco
+Felipe Moura,31,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,90.9,Não,Não,Não,Alto,Não,70.8,1.75,23.1,Sem Risco
+Maria Souza,59,Outro,Sim,Não,Alto,Baixa,Não,Moderado,Sim,Não,Não,Não,94.7,Não,Não,Sim,Moderado,Sim,101.1,1.79,31.6,Risco
+Ana Pereira,58,Feminino,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,92.8,Não,Não,Sim,Moderado,Não,74.5,1.66,27.0,Sem Risco
+André Pereira,21,Outro,Sim,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Sim,96.9,Não,Sim,Não,Baixo,Não,98.0,1.63,36.9,Risco
+Paula Barbosa,72,Feminino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.6,Não,Não,Não,Moderado,Não,72.8,1.88,20.6,Sem Risco
+Gustavo Pereira,47,Não declarado,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Sim,Não,95.6,Não,Não,Sim,Baixo,Não,98.2,1.84,29.0,Sem Risco
+Gustavo Silva,52,Feminino,Não,Não,Alto,Média,Sim,Alto,Sim,Não,Não,Não,96.5,Não,Não,Não,Baixo,Não,57.0,1.68,20.2,Sem Risco
+Felipe Dias,47,Masculino,Sim,Não,Moderado,Baixa,Sim,Baixo,Não,Não,Sim,Não,94.4,Sim,Não,Não,Baixo,Não,82.8,1.71,28.3,Sem Risco
+Carlos Costa,52,Masculino,Sim,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,100.4,Não,Não,Não,Moderado,Não,80.7,1.78,25.5,Sem Risco
+Tiago Souza,70,Feminino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,98.6,Não,Sim,Não,Baixo,Não,55.1,1.75,18.0,Sem Risco
+Beatriz Gomes,43,Masculino,Não,Sim,Moderado,Média,Não,Alto,Não,Sim,Sim,Não,99.1,Sim,Não,Não,Baixo,Não,87.6,1.61,33.8,Sem Risco
+Rafael Araújo,64,Outro,Não,Não,Baixo,Média,Não,Baixo,Sim,Não,Sim,Não,97.0,Não,Não,Sim,Alto,Não,68.2,1.63,25.7,Sem Risco
+Carolina Martins,43,Masculino,Sim,Não,Moderado,Média,Não,Alto,Não,Não,Sim,Não,,Não,Não,Não,Baixo,Sim,89.0,1.67,31.9,Risco
+Beatriz Rodrigues,40,Feminino,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,95.2,Não,Não,Sim,Baixo,Não,83.2,1.66,30.2,Sem Risco
+Fernanda Freitas,67,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Sim,97.7,Não,Não,Não,Alto,Não,72.4,1.73,24.2,Sem Risco
+Gabriel Souza,53,Masculino,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,102.5,Sim,Não,Não,Moderado,Não,70.7,1.7,24.5,Sem Risco
+Luiza Rodrigues,18,Não declarado,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,98.1,Não,Não,Sim,Moderado,Não,106.5,1.7,36.9,Risco
+Camila Freitas,53,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Sim,96.2,Não,Não,Não,Alto,Não,100.6,1.73,33.6,Sem Risco
+Camila Pereira,54,Feminino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,98.5,Não,Não,Sim,Baixo,Não,85.3,1.71,29.2,Sem Risco
+Paula Pereira,49,Feminino,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,95.1,Não,Não,Não,Alto,Não,41.1,1.69,14.4,Sem Risco
+Luiza Gomes,43,Masculino,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,97.1,Não,Não,Não,Baixo,Não,87.5,1.65,32.1,Sem Risco
+Beatriz Silva,61,Feminino,Não,Não,Moderado,Média,Não,Alto,Sim,Não,Não,Não,97.2,Não,Não,Sim,Moderado,Não,63.6,1.7,22.0,Sem Risco
+Gustavo Moreira,48,Não declarado,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,98.0,Não,Não,Não,Moderado,Não,77.5,1.72,26.2,Sem Risco
+Camila Araújo,56,Não declarado,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Não,Não,92.8,Não,Não,Não,Moderado,Sim,80.8,1.76,26.1,Risco
+Larissa Pereira,66,Masculino,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,98.6,Não,Sim,Não,Moderado,Não,64.6,1.73,21.6,Risco
+Mariana Ferreira,28,Feminino,Não,Sim,Alto,Baixa,Não,Baixo,Não,Não,Sim,Não,94.2,Não,Não,Não,Baixo,Não,103.2,1.67,37.0,Sem Risco
+Paula Ferreira,18,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Sim,Não,101.0,Não,Sim,Sim,Moderado,Não,59.5,1.74,19.7,Sem Risco
+Tiago Araújo,32,Masculino,Não,Não,Moderado,Média,Sim,Baixo,Não,Não,Não,Não,93.1,Não,Não,Não,Baixo,Não,62.8,1.65,23.1,Sem Risco
+Tiago Souza,51,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.5,Não,Não,Não,Alto,Sim,67.1,1.65,24.6,Sem Risco
+Paula Santos,61,Não declarado,Não,Não,Moderado,Alta,Não,Baixo,Sim,Não,Não,Não,97.6,Não,Não,Não,Moderado,Não,58.9,,,Sem Risco
+Paula Costa,59,Masculino,Não,Não,Baixo,Baixa,Não,Baixo,Sim,Não,Sim,,99.1,Não,Não,Sim,Moderado,Não,71.8,1.79,22.4,Sem Risco
+Mariana Ferreira,70,Masculino,Sim,Não,Baixo,Média,Não,Moderado,Não,Sim,Sim,Não,94.1,Não,Não,Não,Baixo,Não,104.1,1.96,27.1,Risco
+Felipe Ribeiro,36,Masculino,Não,Não,Moderado,Baixa,Não,Alto,Sim,Não,Não,Não,94.3,Não,Não,Não,Alto,Não,77.7,1.57,31.5,Sem Risco
+Felipe Souza,52,Feminino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,100.6,Não,Não,Não,Moderado,Não,93.4,1.61,36.0,Sem Risco
+Carlos Dias,63,Não declarado,Não,Não,Baixo,Baixa,Sim,Moderado,Sim,Não,Não,Não,99.6,Não,Não,Não,Baixo,Sim,65.8,1.77,21.0,Sem Risco
+Luiza Freitas,33,Feminino,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,,Não,Sim,Não,Moderado,Não,96.6,1.65,35.5,Risco
+Carlos Santos,48,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,98.3,Não,Não,Não,Moderado,Não,55.4,1.66,20.1,Sem Risco
+Carolina Moreira,76,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,94.6,Não,Não,Não,Moderado,Não,88.5,1.82,26.7,Sem Risco
+Fernanda Dias,29,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,,100.8,Não,Sim,Sim,Baixo,Não,95.9,1.57,38.9,Sem Risco
+Lucas Barbosa,58,Outro,Não,Não,Alto,Média,Não,Alto,Não,Não,Sim,Não,99.1,Não,Sim,Não,Moderado,Não,78.1,1.64,29.0,Sem Risco
+Lucas Lima,62,Outro,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,96.1,Não,Não,Não,Moderado,Não,92.2,1.8,28.5,Risco
+Mariana Martins,18,Outro,Não,Não,Baixo,Média,Não,Baixo,Não,Sim,Não,Não,97.8,Não,Não,Não,Moderado,Não,104.2,1.69,36.5,Sem Risco
+Camila Martins,35,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.9,Não,Não,Não,Baixo,Não,77.1,1.68,27.3,Sem Risco
+Gustavo Nunes,30,Outro,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,98.6,Não,Não,Não,Baixo,Não,80.8,1.76,26.1,Sem Risco
+Felipe Araújo,57,Masculino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,92.7,Não,Sim,Não,Baixo,Não,101.7,1.75,33.2,Sem Risco
+Pedro Moura,71,Outro,Não,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,96.7,Não,Não,Não,Moderado,Não,80.5,1.83,24.0,Sem Risco
+Pedro Moreira,90,Não declarado,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Não,Não,97.1,Não,Não,Não,Moderado,Não,107.7,1.67,38.6,Sem Risco
+Carlos Araújo,37,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Não,Moderado,Não,88.6,1.72,29.9,Sem Risco
+Gabriel Moreira,47,Não declarado,Não,Não,Baixo,Média,Não,Alto,Não,Sim,Não,Não,95.0,Não,Não,Sim,Baixo,Sim,79.4,1.78,25.1,Sem Risco
+Gabriel Santos,47,Não declarado,Não,Não,Baixo,Média,Não,Alto,Não,Não,Sim,Não,98.2,Sim,Não,Não,Baixo,Não,73.4,1.68,26.0,Sem Risco
+João Souza,49,Feminino,Não,Sim,Moderado,Média,Não,Baixo,Não,Não,Sim,Não,94.6,Não,Não,Não,Moderado,Não,93.2,1.75,30.4,Sem Risco
+Felipe Moura 55,48,Feminino,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,,Não,Não,Não,Baixo,Não,88.2,1.73,29.5,Sem Risco
+Lucas Ferreira,46,Outro,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,94.9,Não,Não,Não,Moderado,Sim,85.9,1.78,27.1,Risco
+Pedro Rodrigues,42,Outro,Sim,Não,Baixo,Média,Não,Moderado,Sim,Não,Sim,Não,98.8,Não,Não,Sim,Baixo,Não,48.5,1.65,17.8,Sem Risco
+Luiza Santos,60,Outro,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Sim,Sim,,Não,Não,Não,Baixo,Não,104.4,1.71,35.7,Sem Risco
+Mariana Barbosa,53,Masculino,Sim,Não,Alto,Alta,Não,Baixo,Não,Não,Não,Não,96.7,Não,Não,Não,Moderado,Não,54.3,1.72,18.4,Risco
+João Costa,53,Feminino,Sim,Não,Baixo,Alta,Sim,Moderado,Não,Não,Não,Não,97.4,Não,Sim,Não,Baixo,Não,116.1,1.56,47.7,Risco
+Tiago Alves,65,Não declarado,Sim,Não,Moderado,Alta,Não,Alto,Não,Não,Não,Não,99.5,Não,Não,Não,Moderado,Não,68.6,1.68,24.3,Risco
+João Silva,42,Masculino,Não,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,96.9,Não,Não,Sim,Baixo,Não,82.4,1.94,21.9,Sem Risco
+Camila Lima,72,Feminino,Não,Não,Baixo,Média,Sim,Baixo,Sim,Não,Sim,Não,101.5,Não,Não,Sim,Baixo,Não,81.9,1.82,24.7,Sem Risco
+Gustavo Oliveira,58,Masculino,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,91.9,Não,Não,Não,Moderado,Não,81.0,1.55,33.7,Sem Risco
+Ana Gomes,58,Outro,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Sim,95.9,Não,Não,Não,Moderado,Não,88.8,1.82,26.8,Sem Risco
+Lucas Martins,44,Feminino,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Sim,Não,95.8,Não,Não,Não,Baixo,Não,79.3,1.75,25.9,Sem Risco
+Lucas Oliveira,49,Masculino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.2,Não,Não,Não,Moderado,Não,61.7,1.79,19.3,Sem Risco
+Carolina Pereira,40,Feminino,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,98.9,Não,Não,Não,Baixo,Não,,1.58,,Sem Risco
+Lucas Barbosa,35,Não declarado,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,100.3,Não,Sim,Não,Moderado,Não,88.8,1.75,29.0,Sem Risco
+Carlos Oliveira,35,Feminino,Sim,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,100.8,Não,Não,Não,Baixo,Não,100.1,1.76,32.3,Sem Risco
+Ana Dias,67,Outro,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Sim,Não,Não,,Não,Não,Não,Moderado,Não,99.6,1.73,33.3,Sem Risco
+Camila Gomes,39,Feminino,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,100.5,Não,Não,Não,Moderado,Não,70.0,1.73,23.4,Sem Risco
+Rafael Oliveira,39,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.6,Não,Não,Não,Moderado,Não,101.4,1.5,45.1,Sem Risco
+João Ferreira,54,Feminino,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.7,Não,Não,Não,Baixo,Não,78.1,1.66,28.3,Sem Risco
+Gustavo Ferreira,60,Feminino,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Sim,Não,94.7,Não,Não,Não,Moderado,Não,105.0,1.65,38.6,Sem Risco
+Larissa Martins,34,Não declarado,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,98.1,Não,Não,Não,Alto,Não,,1.64,,Sem Risco
+Carolina Oliveira,41,Masculino,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,99.8,Não,Não,Não,Moderado,Não,82.2,1.73,27.5,Sem Risco
+Beatriz Gomes,62,Não declarado,Sim,Não,Moderado,Média,Não,Moderado,Sim,Não,Sim,Não,99.1,Não,Não,Sim,Alto,Não,89.9,1.49,40.5,Sem Risco
+Beatriz Moreira,47,Não declarado,Sim,Não,Baixo,Alta,Não,Alto,Não,Não,Sim,Sim,97.6,Não,Não,Não,Moderado,Não,106.5,1.73,35.6,Sem Risco
+Pedro Silva,48,Masculino,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,94.1,Sim,Não,Sim,Baixo,Não,77.1,,,Sem Risco
+Rafael Costa,65,Masculino,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Sim,,95.5,Não,Não,Sim,Alto,Não,100.2,1.47,46.4,Sem Risco
+Gustavo Nunes,49,Não declarado,Não,Não,Moderado,Alta,Não,Moderado,Não,Sim,Não,Não,92.7,Não,Não,Sim,Alto,Não,67.2,1.68,23.8,Sem Risco
+Camila Martins,58,Feminino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,97.2,Não,Não,Não,Moderado,Não,75.8,1.74,25.0,Sem Risco
+Rafael Oliveira,72,Feminino,Não,Não,Alto,Média,Não,Baixo,Não,Não,Não,Não,96.1,Não,Não,Não,Alto,Não,92.5,1.89,25.9,Sem Risco
+Lucas Moreira,50,Masculino,Não,Não,Alto,Média,Sim,Moderado,Não,Sim,Sim,Sim,97.6,Não,Não,Não,Baixo,Não,60.7,1.62,23.1,Sem Risco
+Fernanda Barbosa,59,Feminino,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,95.3,Não,Não,Sim,Baixo,Sim,39.6,1.63,14.9,Risco
+Maria Alves,67,Não declarado,Não,Não,Moderado,Alta,Sim,Baixo,Não,Não,Não,Não,94.8,Não,Não,Não,Moderado,Não,77.7,1.85,22.7,Sem Risco
+Ana Moura,66,Masculino,Sim,Não,Baixo,Baixa,Não,Alto,Sim,Não,Não,Não,96.9,Não,Não,Não,Moderado,Não,73.4,1.71,25.1,Sem Risco
+Fernanda Pereira,54,Feminino,Não,Não,Baixo,Média,Não,Moderado,Não,Sim,Não,Não,96.9,Não,Não,Não,Moderado,Sim,56.6,1.77,18.1,Sem Risco
+João Pereira,53,Outro,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,97.2,Não,Não,Não,Alto,Não,74.0,1.62,28.2,Sem Risco
+André Nunes,56,Outro,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,98.0,Não,Não,Não,Baixo,Não,111.5,1.77,35.6,Sem Risco
+Luiza Rodrigues,36,Outro,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Sim,101.8,Não,Não,Sim,Baixo,Não,87.3,1.55,36.3,Sem Risco
+Ana Silva,35,Não declarado,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Sim,Não,,97.7,Não,Não,Não,Baixo,Não,97.4,1.63,36.7,Sem Risco
+Rafael Nunes,37,Masculino,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,94.6,Não,Não,Não,Moderado,Não,56.4,1.68,20.0,Sem Risco
+Larissa Moura,57,Masculino,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,,Não,Não,Sim,Baixo,Não,68.0,1.65,25.0,Sem Risco
+Larissa Dias,46,Feminino,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,95.4,Não,Não,Não,Alto,Não,64.8,1.69,22.7,Sem Risco
+Rafael Souza,57,Masculino,Sim,Não,Baixo,Média,Sim,Baixo,Não,Não,Não,Sim,97.2,Não,Não,Não,Moderado,Não,66.2,1.62,25.2,Sem Risco
+Mariana Nunes 2,78,Feminino,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,96.4,Não,Não,Sim,Alto,Não,69.4,1.69,24.3,Risco
+Maria Araújo,45,Feminino,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Sim,Sim,Não,98.7,Não,Não,Não,Baixo,Não,107.1,1.77,34.2,Sem Risco
+Luiza Santos,62,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.2,Não,Não,Não,Moderado,Não,66.0,1.55,27.5,Sem Risco
+Mariana Gomes,37,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,97.1,Não,Não,Não,Moderado,Não,61.0,1.68,21.6,Sem Risco
+Rafael Oliveira,28,Masculino,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,97.5,Não,Não,Não,Baixo,Não,103.8,1.73,34.7,Sem Risco
+André Santos,54,Masculino,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Sim,Não,99.7,Não,Não,Não,Baixo,Não,92.9,1.71,31.8,Sem Risco
+Gustavo Oliveira,57,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,97.8,Não,Não,Não,Moderado,Não,76.0,1.79,23.7,Sem Risco
+Fernanda Gomes,54,Não declarado,Não,Não,Moderado,Alta,Não,Moderado,Não,Sim,Não,Não,98.2,Não,Não,Não,Baixo,Não,89.1,1.72,30.1,Sem Risco
+João Rodrigues,25,Outro,Sim,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,100.6,Não,Sim,Não,Moderado,Não,87.9,1.51,38.6,Sem Risco
+Carolina Alves,33,Não declarado,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Sim,97.6,Não,Não,Sim,Moderado,Não,90.4,1.75,29.5,Sem Risco
+Carlos Moreira,32,Feminino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.8,Não,Não,Não,Alto,Não,94.6,1.62,36.0,Sem Risco
+Lucas Silva,63,Masculino,Não,Não,Alto,Baixa,Sim,Moderado,Não,Não,Sim,Não,93.3,Não,Não,Não,Moderado,Não,68.8,1.87,19.7,Sem Risco
+Mariana Moreira,54,Masculino,Sim,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,97.5,Sim,Não,Não,Baixo,Sim,68.2,1.74,22.5,Risco
+Gabriel Silva,54,Não declarado,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Sim,93.2,Não,Não,Não,Moderado,Não,65.3,1.65,24.0,Sem Risco
+Fernanda Souza,40,Feminino,Sim,Não,Baixo,Média,Não,Alto,Não,Não,Não,Não,97.3,Não,Não,Sim,Moderado,Não,67.8,1.67,24.3,Sem Risco
+Camila Araújo,59,Feminino,Não,Sim,Baixo,Baixa,Não,Baixo,Não,Sim,Sim,Não,92.8,Sim,Não,Não,Moderado,Sim,71.4,1.63,26.9,Risco
+Rafael Oliveira,68,Feminino,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,97.6,Não,Não,Sim,Moderado,Não,72.1,1.68,25.5,Sem Risco
+André Barbosa,18,Outro,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,95.0,Não,Não,Não,Moderado,Não,50.5,1.68,17.9,Sem Risco
+Felipe Oliveira,35,Feminino,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,98.2,Não,Não,Não,Moderado,Não,70.5,1.59,27.9,Sem Risco
+Gustavo Oliveira,48,Masculino,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Sim,101.0,Não,Não,Não,Baixo,Não,66.1,1.67,23.7,Sem Risco
+Camila Lima,61,Outro,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Não,Não,,Sim,Não,Não,Moderado,Não,80.2,1.84,23.7,Sem Risco
+Gabriel Martins,33,Outro,Não,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Sim,96.7,Sim,Não,Não,Baixo,Não,85.8,1.7,29.7,Sem Risco
+Gabriel Moura,55,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,,Não,Não,Não,Moderado,Sim,89.6,1.78,28.3,Sem Risco
+Carlos Lima,42,Masculino,Sim,Não,Baixo,Média,Sim,Moderado,Não,Não,Não,Não,100.6,Não,Não,Sim,Alto,Não,88.2,1.6,34.5,Sem Risco
+Lucas Souza,34,Não declarado,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,97.8,Não,Não,Não,Baixo,Não,49.8,1.82,15.0,Sem Risco
+Gabriel Barbosa,29,Outro,Não,Não,Moderado,Alta,Sim,Moderado,Não,Não,Não,Não,96.6,Não,Não,Sim,Moderado,Não,68.7,1.84,20.3,Sem Risco
+Carlos Moura,45,Outro,Não,Não,Alto,Alta,Não,Moderado,Não,Não,Sim,Não,95.0,Não,Não,Não,Alto,Não,75.1,1.73,25.1,Sem Risco
+Ana Oliveira,44,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,93.3,Não,Não,Não,Moderado,Não,29.2,1.89,8.2,Sem Risco
+Carolina Santos,54,Outro,Não,Não,Baixo,Baixa,Sim,Alto,Não,Não,Não,Não,97.5,Não,Não,Sim,Moderado,Não,93.8,1.8,29.0,Sem Risco
+Lucas Oliveira,38,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,97.9,Não,Não,Não,Baixo,Sim,61.9,1.79,19.3,Sem Risco
+Gustavo Nunes,63,Outro,Não,Não,Alto,Média,Não,Baixo,Não,Não,Não,Não,93.4,Não,Não,Não,Baixo,Não,63.0,1.88,17.8,Sem Risco
+Rafael Pereira,53,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.6,Não,Não,Não,Moderado,Não,78.7,1.55,32.8,Sem Risco
+Felipe Moreira,55,Feminino,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Sim,Não,100.1,Não,Não,Não,Alto,Não,77.7,1.72,26.3,Sem Risco
+Ana Moura,49,Feminino,Não,Não,Moderado,Média,Sim,Baixo,Sim,Não,Sim,Não,97.9,Não,Não,Não,Moderado,Não,43.0,1.63,16.2,Sem Risco
+Ana Silva,61,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.0,Não,Não,Sim,Moderado,Não,76.1,1.68,27.0,Sem Risco
+Lucas Costa,48,Outro,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Sim,99.0,Não,Sim,Não,Baixo,Não,79.1,1.64,29.4,Sem Risco
+Pedro Dias,37,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,94.7,Não,Não,Não,Moderado,Não,51.3,1.76,16.6,Sem Risco
+João Oliveira,46,Não declarado,Sim,Não,Moderado,Alta,Não,Baixo,Não,Não,Não,Não,100.3,Não,Não,Não,Baixo,Não,88.1,1.73,29.4,Sem Risco
+Lucas Oliveira,22,Outro,Sim,Não,Alto,Baixa,Sim,Moderado,Não,Não,Não,Sim,92.7,Não,Sim,Não,Baixo,Não,71.5,1.55,29.8,Risco
+Ana Santos,59,Masculino,Não,Não,Alto,Média,Não,Baixo,Não,Não,Sim,Não,97.7,Não,Não,Não,Moderado,Não,87.0,1.81,26.6,Sem Risco
+Luiza Dias,45,Não declarado,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,94.2,Não,Não,Não,Moderado,Sim,72.1,1.7,24.9,Risco
+Larissa Silva,72,Não declarado,Não,Não,Moderado,Baixa,Não,Alto,Sim,Não,Não,Não,93.9,Não,Não,Não,Moderado,Não,77.1,1.61,29.7,Sem Risco
+Luiza Rodrigues,47,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.3,Não,Não,Não,Alto,Não,81.0,1.66,29.4,Sem Risco
+Rafael Ribeiro,41,Feminino,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Sim,97.0,Não,Não,Sim,Moderado,Não,82.3,1.7,28.5,Sem Risco
+Maria Freitas,52,Feminino,Sim,Não,Moderado,Média,Não,Alto,Não,Sim,Não,Não,98.6,Não,Não,Sim,Baixo,Não,82.4,1.37,43.9,Risco
+Fernanda Araújo,52,Não declarado,Não,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,99.1,Não,Não,Sim,Baixo,Sim,79.0,1.79,24.7,Sem Risco
+Maria Oliveira,65,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,95.8,Não,Não,Não,Baixo,Sim,71.5,1.57,29.0,Sem Risco
+Camila Costa,45,Feminino,Não,Não,Moderado,Baixa,Sim,Alto,Não,Não,Não,Não,98.3,Não,Não,Não,Alto,Sim,63.1,1.81,19.3,Sem Risco
+Paula Silva,42,Outro,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Sim,93.7,Não,Não,Não,Moderado,Não,68.8,1.69,24.1,Sem Risco
+Larissa Moreira,20,Outro,Não,Não,Moderado,Alta,Sim,Baixo,Não,Não,Não,Não,,Não,Não,Não,Baixo,Não,88.0,1.77,28.1,Sem Risco
+Tiago Nunes,25,Outro,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,98.3,Não,Sim,Não,Moderado,Não,89.4,1.5,39.7,Sem Risco
+Luiza Silva,51,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,93.8,Não,Não,Não,Baixo,Não,91.8,1.56,37.7,Sem Risco
+João Ribeiro,56,Não declarado,Sim,Não,Baixo,Alta,Sim,Alto,Não,Não,Sim,Não,101.7,Não,Não,Não,Baixo,Não,88.0,1.59,34.8,Risco
+André Rodrigues,38,Feminino,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Sim,Não,96.6,Não,Não,Não,Alto,Não,82.6,1.82,24.9,Sem Risco
+Luiza Souza,23,Feminino,Não,Não,Baixo,Baixa,Não,Baixo,Sim,Não,Não,Sim,97.8,Não,Não,Não,Alto,Não,89.3,1.82,27.0,Sem Risco
+Rafael Moreira,66,Masculino,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,93.3,Não,Não,Sim,Baixo,Não,75.9,1.86,21.9,Risco
+Mariana Dias,78,Não declarado,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,98.6,Não,Não,Não,Baixo,Não,74.2,1.61,28.6,Sem Risco
+Beatriz Pereira,58,Outro,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Sim,100.1,Não,Não,Não,Moderado,Não,92.4,1.77,29.5,Sem Risco
+Beatriz Dias,54,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.1,Não,Não,Não,Baixo,Não,96.0,1.73,32.1,Sem Risco
+Tiago Dias,47,Feminino,Não,Não,Baixo,Baixa,Não,Baixo,Não,Sim,Não,Sim,97.4,Não,Não,Não,Moderado,Não,111.9,1.71,38.3,Sem Risco
+Larissa Moreira,56,Não declarado,Sim,Não,Baixo,Média,Não,Alto,Sim,Sim,Sim,Não,98.6,Não,Não,Não,Alto,Não,84.8,1.76,27.4,Risco
+Maria Oliveira,46,Feminino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,96.9,Sim,Não,Não,Alto,Não,84.1,1.44,40.6,Sem Risco
+João Nunes,51,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,94.6,Não,Não,Sim,Baixo,Não,90.3,1.53,38.6,Sem Risco
+Carolina Costa,24,Outro,Não,Não,Moderado,Alta,Não,Alto,Não,Não,Não,,95.5,Não,Não,Não,Alto,Sim,68.7,1.53,29.3,Sem Risco
+Luiza Gomes,56,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,,Não,Não,Não,Baixo,Não,75.2,1.69,26.3,Sem Risco
+Tiago Lima,58,Outro,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Não,Não,99.4,Não,Não,Sim,Baixo,Sim,88.8,1.66,32.2,Risco
+Pedro Rodrigues,37,Não declarado,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,94.7,Não,Não,Não,Moderado,Não,107.8,,,Sem Risco
+Tiago Souza,53,Outro,Sim,Não,Moderado,Média,Não,Moderado,Sim,Não,Não,Não,101.4,Não,Não,Não,Moderado,Não,54.8,1.77,17.5,Sem Risco
+Lucas Pereira,59,Não declarado,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Sim,Não,,Não,Não,Não,Moderado,Não,86.3,1.83,25.8,Risco
+Larissa Gomes,75,Outro,Sim,Não,Baixo,Baixa,Sim,Baixo,Não,Não,Não,Não,96.9,Não,Sim,Não,Moderado,Não,75.7,1.81,23.1,Risco
+Mariana Dias,31,Não declarado,Não,Não,Moderado,Média,Sim,Moderado,Não,Não,Não,Não,95.3,Não,Não,Sim,Baixo,Não,79.6,1.7,27.5,Sem Risco
+Fernanda Ferreira,49,Masculino,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Sim,Sim,95.3,Não,Não,Sim,Moderado,Não,86.8,1.75,28.3,Sem Risco
+Tiago Martins,39,Masculino,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,94.8,Não,Não,Não,Baixo,Não,79.1,1.79,24.7,Sem Risco
+Luiza Freitas,52,Feminino,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,100.0,Não,Não,Sim,Baixo,Não,102.9,1.82,31.1,Sem Risco
+Tiago Souza,53,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,99.1,Não,Não,Sim,Moderado,Não,95.5,1.67,34.2,Sem Risco
+Gabriel Oliveira,70,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,95.3,Não,Não,Não,Baixo,Não,,1.67,,Sem Risco
+Luiza Oliveira,23,Outro,Não,Não,Baixo,Média,Sim,Baixo,Não,Não,Não,Não,97.8,Não,Não,Não,Moderado,Não,94.6,1.79,29.5,Sem Risco
+Felipe Silva,61,Feminino,Não,Não,Moderado,Alta,Não,Alto,Não,Sim,Não,Não,96.7,Não,Não,Não,Moderado,Não,73.4,1.75,24.0,Risco
+Pedro Rodrigues,38,Masculino,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,100.2,Não,Não,Não,Baixo,Não,52.6,1.86,15.2,Sem Risco
+João Santos,34,Não declarado,Sim,Não,Moderado,Média,Não,Alto,Não,Não,Sim,Não,106.4,Não,Não,Não,Moderado,Sim,75.1,1.92,20.4,Risco
+Luiza Barbosa,20,Não declarado,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,98.1,Não,Não,Não,Moderado,Não,82.9,1.55,34.5,Sem Risco
+Beatriz Moreira,32,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Sim,Não,Sim,Sim,,Não,Não,Não,Baixo,Não,90.9,1.64,33.8,Sem Risco
+Tiago Alves,51,Masculino,Sim,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Sim,97.3,Não,Não,Não,Baixo,Não,76.3,1.49,34.4,Sem Risco
+Maria Ferreira,53,Outro,Não,Não,Moderado,Média,Não,Baixo,Sim,Não,Sim,Não,94.1,Não,Não,Não,Alto,Não,73.7,1.68,26.1,Sem Risco
+Ana Oliveira,64,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Não,Não,94.5,Não,Não,Não,Baixo,Não,75.4,1.71,25.8,Sem Risco
+Luiza Oliveira,36,Masculino,Não,Não,Baixo,Média,Não,Moderado,Não,Sim,Não,Não,99.0,Não,Não,Não,Baixo,Não,35.3,1.57,14.3,Sem Risco
+Gabriel Freitas,54,Não declarado,Não,Não,Moderado,Baixa,Não,Alto,Não,Sim,Não,Não,97.8,Não,Não,Não,Moderado,Não,83.5,1.75,27.3,Sem Risco
+João Barbosa,61,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.6,Não,Sim,Não,Alto,Não,76.7,1.68,27.2,Sem Risco
+Carolina Barbosa,66,Masculino,Não,Não,Alto,Baixa,Não,Baixo,Não,Sim,Sim,Não,93.9,Não,Não,Não,Alto,Não,66.5,1.6,26.0,Sem Risco
+Gabriel Costa,33,Não declarado,Sim,Não,Baixo,Média,Sim,Moderado,Não,Sim,Não,Não,96.1,Não,Não,Sim,Baixo,Não,62.6,1.79,19.5,Risco
+Paula Moreira,60,Outro,Sim,Não,Moderado,Baixa,Não,Alto,Não,Sim,Não,Não,97.1,Não,Não,Não,Moderado,Não,52.3,1.65,19.2,Risco
+Fernanda Alves,46,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.0,Não,Sim,Não,Baixo,Sim,68.0,2.1,15.4,Sem Risco
+Tiago Moreira,63,Feminino,Não,Não,Alto,Baixa,Não,Baixo,Não,Não,Não,Não,101.7,Não,Não,Não,Moderado,Não,78.0,1.82,23.5,Sem Risco
+Maria Rodrigues 12,36,Outro,Não,Não,Alto,Alta,Não,Moderado,Não,Não,Sim,Não,96.8,Não,Não,Sim,Moderado,Não,67.2,1.65,24.7,Sem Risco
+Carolina Araújo,75,Masculino,Não,Não,Alto,Baixa,Não,Alto,Sim,Sim,Sim,Não,96.8,Não,Não,Não,Moderado,Não,91.1,1.56,37.4,Sem Risco
+Carlos Pereira,43,Masculino,Não,Não,Moderado,Alta,Sim,Baixo,Não,Não,Sim,Não,92.7,Sim,Não,Sim,Alto,Não,54.1,1.7,18.7,Sem Risco
+Larissa Souza,49,Não declarado,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Sim,Não,95.6,Não,Não,Não,Baixo,Não,92.4,1.85,27.0,Sem Risco
+Larissa Araújo,62,Outro,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,,95.8,Não,Não,Sim,Moderado,Não,65.2,1.81,19.9,Sem Risco
+Pedro Moreira,40,Outro,Sim,Não,Alto,Média,Não,Baixo,Não,Não,Não,Não,99.1,Não,Não,Não,Baixo,Não,68.1,1.72,23.0,Sem Risco
+Gustavo Rodrigues,48,Masculino,Não,Sim,Baixo,Média,Não,Moderado,Não,Não,Não,Não,99.8,Não,Não,Não,Baixo,Não,82.1,1.68,29.1,Sem Risco
+Rafael Moura,43,Feminino,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,98.2,Não,Sim,Não,Baixo,Não,79.6,1.66,28.9,Sem Risco
+Rafael Dias,41,Masculino,Sim,Não,Alto,Baixa,Sim,Moderado,Não,Sim,Não,Não,99.3,Não,Não,Não,Baixo,Não,83.0,1.66,30.1,Sem Risco
+Pedro Rodrigues,38,Não declarado,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Sim,100.1,Não,Não,Não,Baixo,Não,51.0,1.72,17.2,Sem Risco
+Tiago Alves,46,Não declarado,Não,Não,Baixo,Alta,Não,Moderado,Não,Sim,Não,Não,99.9,Não,Sim,Não,Baixo,Não,73.5,1.83,21.9,Sem Risco
+André Barbosa,60,Não declarado,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Sim,95.6,Não,Sim,Não,Alto,Sim,63.1,1.69,22.1,Risco
+Tiago Alves,54,Masculino,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,96.6,Não,Não,Não,Moderado,Não,73.2,1.76,23.6,Sem Risco
+Gustavo Santos,48,Feminino,Não,Sim,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,99.0,Não,Não,Sim,Baixo,Não,64.2,1.61,24.8,Sem Risco
+Ana Moura,48,Feminino,Não,Não,Alto,Média,Não,Moderado,Não,Sim,Não,Não,94.0,Não,Não,Sim,Baixo,Sim,85.4,1.67,30.6,Risco
+Carlos Costa,66,Não declarado,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,96.3,Não,Não,Não,Baixo,Não,101.5,1.76,32.8,Sem Risco
+Pedro Barbosa,40,Feminino,Não,Sim,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,92.7,Não,Não,Não,Moderado,Não,86.7,1.68,30.7,Sem Risco
+Carolina Ribeiro,53,Masculino,Não,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,95.7,Não,Não,Sim,Baixo,Sim,89.0,1.82,26.9,Sem Risco
+Pedro Martins,57,Outro,Sim,Não,Alto,Média,Não,Baixo,Não,Não,Não,Não,98.6,Não,Sim,Sim,Baixo,Sim,99.5,1.72,33.6,Risco
+Rafael Nunes,28,Masculino,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,94.4,Não,Não,Não,Baixo,Não,73.2,1.77,23.4,Sem Risco
+Carolina Dias,47,Não declarado,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,99.9,Não,Não,Não,Baixo,Não,84.9,1.79,26.5,Sem Risco
+Ana Barbosa,34,Masculino,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Sim,96.4,Não,Não,Não,Alto,Não,91.1,1.74,30.1,Sem Risco
+Ana Dias,60,Outro,Sim,Não,Baixo,Baixa,Sim,Baixo,Não,Sim,Não,Sim,96.1,Não,Não,Não,Baixo,Não,90.8,1.75,29.6,Risco
+Paula Rodrigues,51,Outro,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Sim,Não,,Não,Não,Não,Baixo,Não,74.3,1.61,28.7,Sem Risco
+Gustavo Araújo,23,Não declarado,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.8,Não,Não,Não,Alto,Não,72.8,1.77,23.2,Sem Risco
+Maria Pereira,44,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Sim,Não,Sim,Não,100.7,Não,Não,Não,Baixo,Não,83.5,1.75,27.3,Sem Risco
+Carolina Freitas,18,Não declarado,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,98.5,Não,Não,Não,Baixo,Não,67.0,1.48,30.6,Sem Risco
+Maria Martins,30,Outro,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,97.1,Não,Não,Não,Baixo,Não,81.7,1.62,31.1,Sem Risco
+Mariana Santos,73,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.0,Não,Sim,Não,Moderado,Não,91.6,1.76,29.6,Sem Risco
+Beatriz Silva,61,Outro,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.2,Sim,Não,Sim,Moderado,Não,73.4,1.53,31.4,Risco
+Fernanda Ribeiro,81,Masculino,Não,Não,Baixo,Média,Não,Alto,Não,Não,Não,Não,97.6,Não,Não,Não,Moderado,Não,69.5,1.76,22.4,Sem Risco
+Mariana Lima,45,Não declarado,Não,Não,Alto,Média,Não,Moderado,Não,Não,Sim,Sim,98.8,Não,Não,Não,Moderado,Não,,1.71,,Sem Risco
+Gabriel Ribeiro,52,Masculino,Sim,Não,Moderado,Média,Não,Alto,Sim,Não,Sim,Não,96.6,Não,Não,Não,Baixo,Não,65.9,1.63,24.8,Sem Risco
+Carlos Moura,44,Não declarado,Não,Não,Alto,Alta,Não,Moderado,Não,Sim,Não,Não,97.6,Não,Sim,Não,Moderado,Não,84.8,1.85,24.8,Risco
+Larissa Nunes,55,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Sim,96.4,Não,Não,Sim,Baixo,Não,86.7,1.76,28.0,Sem Risco
+André Pereira,38,Não declarado,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,94.6,Não,Não,Não,Moderado,Não,96.7,1.61,37.3,Sem Risco
+Lucas Nunes,32,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,99.1,Não,Não,Sim,Moderado,Não,76.7,1.89,21.5,Sem Risco
+Luiza Costa,31,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Sim,Não,96.6,Não,Sim,Sim,Baixo,Não,95.7,1.67,34.3,Sem Risco
+Maria Alves,37,Masculino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,97.9,Não,Não,Não,Baixo,Sim,65.8,1.65,24.2,Sem Risco
+Beatriz Costa,56,Não declarado,Não,Não,Alto,Média,Não,Moderado,Não,Sim,Não,Não,101.2,Não,Não,Não,Moderado,Não,95.7,1.72,32.3,Sem Risco
+André Martins,67,Masculino,Não,Não,Baixo,Baixa,Não,Baixo,Não,Sim,Sim,Não,92.8,Sim,Não,Não,Baixo,Não,85.1,1.68,30.2,Risco
+João Alves,76,Não declarado,Não,Não,Baixo,Baixa,Não,Baixo,Não,Sim,Não,Não,96.0,Não,Sim,Não,Moderado,Sim,83.8,1.62,31.9,Risco
+Luiza Araújo,44,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,94.2,Não,Não,Não,Alto,Sim,107.7,1.63,40.5,Sem Risco
+Beatriz Pereira,51,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,94.3,Não,Não,Não,Moderado,Não,80.4,1.67,28.8,Sem Risco
+Pedro Ferreira,54,Masculino,Não,Não,Moderado,Baixa,Sim,Alto,Não,Sim,Não,Não,96.2,Não,Não,Não,Baixo,Não,,1.66,,Sem Risco
+Luiza Dias,33,Feminino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Sim,Sim,Não,,Não,Não,Não,Baixo,Não,66.0,1.75,21.6,Sem Risco
+Mariana Alves,54,Outro,Sim,Não,Alto,Alta,Não,Moderado,Não,Não,Não,Não,100.0,Não,Não,Sim,Baixo,Não,64.8,1.69,22.7,Risco
+Camila Nunes,36,Masculino,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Sim,Não,93.0,Não,Sim,Sim,Moderado,Não,74.2,1.63,27.9,Sem Risco
+Larissa Lima,56,Masculino,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Sim,Não,96.5,Não,Não,Sim,Moderado,Não,68.7,1.64,25.5,Sem Risco
+Mariana Ribeiro,55,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.4,Não,Não,Não,Moderado,Não,85.1,1.74,28.1,Sem Risco
+Rafael Barbosa,50,Outro,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,100.3,Não,Não,Não,Moderado,Não,91.7,1.7,31.7,Sem Risco
+Felipe Ribeiro,77,Outro,Não,Sim,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.0,Não,Não,Não,Moderado,Não,84.4,1.72,28.5,Sem Risco
+André Freitas,38,Masculino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,96.7,Não,Não,Não,Baixo,Sim,108.5,1.77,34.6,Sem Risco
+João Nunes,55,Outro,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Sim,95.3,Não,Não,Não,Baixo,Não,81.7,1.86,23.6,Sem Risco
+Paula Freitas,51,Outro,Não,Não,Baixo,Média,Não,Baixo,Não,Sim,Não,Não,97.3,Não,Não,Não,Moderado,Não,84.8,1.65,31.1,Sem Risco
+Ana Araújo,18,Outro,Não,Não,Moderado,Média,Não,Baixo,Não,Sim,Não,Não,96.3,Não,Não,Não,Baixo,Não,91.5,1.67,32.8,Sem Risco
+Gabriel Ribeiro,67,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Não,Não,100.0,Não,Sim,Sim,Moderado,Não,83.8,1.97,21.6,Risco
+Carlos Lima,28,Feminino,Sim,Não,Alto,Alta,Não,Baixo,Não,Sim,Não,Não,96.4,Não,Não,Não,Moderado,Não,73.7,,,Risco
+Maria Freitas,55,Outro,Não,Não,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,96.2,Não,Não,Não,Baixo,Não,75.1,1.69,26.3,Sem Risco
+Lucas Silva,32,Outro,Sim,Não,Baixo,Alta,Não,Baixo,Não,Não,Não,Não,96.1,Não,Não,Não,Moderado,Não,80.7,1.82,24.4,Sem Risco
+Rafael Barbosa,42,Masculino,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,93.0,Não,Não,Não,Moderado,Não,71.1,1.71,24.3,Risco
+Tiago Dias,36,Outro,Não,Não,Baixo,Média,Sim,Baixo,Não,Não,Não,Não,97.4,Não,Sim,Não,Moderado,Não,84.0,1.76,27.1,Sem Risco
+Mariana Moreira,40,Não declarado,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Sim,Sim,99.4,Não,Sim,Sim,Moderado,Não,60.9,1.74,20.1,Sem Risco
+Beatriz Nunes,54,Feminino,Não,Não,Baixo,Baixa,Sim,Baixo,Não,Não,Não,Não,98.8,Não,Não,Não,Alto,Não,71.7,1.72,24.2,Sem Risco
+Paula Pereira,47,Não declarado,Sim,Não,Moderado,Baixa,Não,Baixo,Não,Sim,Não,Não,94.8,Não,Não,Não,Moderado,Não,87.4,1.87,25.0,Sem Risco
+Lucas Ribeiro,60,Feminino,Não,Sim,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,98.4,Não,Não,Sim,Alto,Não,73.6,1.77,23.5,Sem Risco
+Gabriel Oliveira,65,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,95.4,Não,Não,Não,Moderado,Não,48.2,1.75,15.7,Sem Risco
+Fernanda Barbosa,57,Outro,Não,Sim,Moderado,Alta,Não,Alto,Não,Não,Não,Não,97.6,Não,Sim,Sim,Baixo,Não,51.2,1.74,16.9,Risco
+Beatriz Ribeiro,70,Não declarado,Sim,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,97.9,Não,Não,Não,Alto,Não,75.8,1.47,35.1,Risco
+Ana Araújo,48,Masculino,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,96.2,Não,Não,Não,Moderado,Não,72.6,1.65,26.7,Sem Risco
+Larissa Costa,50,Não declarado,Não,Não,Moderado,Baixa,Não,Baixo,Sim,Sim,Não,Não,98.1,Não,Sim,Não,Baixo,Sim,96.8,1.88,27.4,Risco
+André Ferreira,40,Feminino,Sim,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,96.5,Não,Não,Não,Moderado,Não,38.3,1.67,13.7,Sem Risco
+Lucas Costa,44,Não declarado,Não,Sim,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Não,99.8,Não,Não,Sim,Moderado,Não,89.9,1.7,31.1,Sem Risco
+Lucas Gomes,29,Feminino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,96.7,Não,Não,Não,Moderado,Não,107.0,1.63,40.3,Sem Risco
+Pedro Araújo,53,Feminino,Não,Sim,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,99.3,Não,Não,Não,Baixo,Não,55.2,1.75,18.0,Sem Risco
+Gabriel Santos 36,52,Feminino,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Sim,Não,97.4,Não,Não,Não,Alto,Sim,94.0,1.77,30.0,Sem Risco
+Luiza Dias,55,Não declarado,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,98.6,Não,Não,Sim,Alto,Não,76.1,1.63,28.6,Sem Risco
+Pedro Lima,68,Não declarado,Não,Não,Baixo,Média,Não,Alto,Não,Não,Sim,Não,96.4,Não,Não,Sim,Moderado,Não,54.5,1.77,17.4,Sem Risco
+Gustavo Barbosa,62,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,100.2,Sim,Não,Não,Moderado,Não,88.8,1.72,30.0,Sem Risco
+João Santos,40,Outro,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.2,Não,Sim,Não,Moderado,Não,103.4,1.78,32.6,Sem Risco
+João Gomes,42,Feminino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,94.3,Não,Não,Não,Moderado,Não,57.6,1.74,19.0,Sem Risco
+João Silva,18,Feminino,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,95.2,Não,Sim,Não,Baixo,Não,95.5,1.68,33.8,Risco
+Mariana Rodrigues,31,Masculino,Não,Não,Alto,Baixa,Não,Moderado,Não,Não,Não,Não,95.1,Não,Não,Não,Moderado,Não,83.9,1.64,31.2,Sem Risco
+Gustavo Nunes,33,Feminino,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,98.2,Não,Sim,Não,Moderado,Não,76.7,1.69,26.9,Sem Risco
+Pedro Santos,45,Outro,Não,Não,Baixo,Baixa,Sim,Moderado,Não,Não,Não,Não,95.0,Não,Não,Não,Baixo,Não,74.3,1.84,21.9,Sem Risco
+Felipe Nunes,55,Outro,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,101.1,Não,Não,Não,Moderado,Não,57.2,1.81,17.5,Sem Risco
+Camila Lima,18,Não declarado,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Sim,Não,96.3,Não,Não,Não,Baixo,Não,56.2,1.78,17.7,Sem Risco
+Beatriz Costa,40,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,97.5,Sim,Não,Não,Alto,Não,56.4,1.81,17.2,Sem Risco
+João Alves,45,Feminino,Não,Não,Alto,Baixa,Não,Alto,Não,Não,Sim,Não,94.6,Não,Não,Não,Moderado,Sim,96.6,1.73,32.3,Sem Risco
+Carlos Silva,69,Feminino,Sim,Sim,Moderado,Baixa,Sim,Moderado,Não,Não,Sim,Sim,99.3,Não,Não,Não,Moderado,Não,111.0,1.78,35.0,Risco
+Ana Rodrigues,66,Masculino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,91.8,Não,Não,Sim,Baixo,Não,90.5,1.79,28.2,Risco
+Gustavo Ribeiro,72,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Sim,Não,96.8,Não,Não,Não,Moderado,Não,75.8,1.57,30.8,Sem Risco
+Carolina Santos,76,Masculino,Não,Sim,Alto,Média,Sim,Moderado,Não,Não,Não,Não,99.8,Não,Não,Não,Baixo,Não,108.9,1.65,40.0,Sem Risco
+Maria Souza,61,Não declarado,Sim,Não,Alto,Alta,Não,Baixo,Não,Sim,Não,Não,95.0,Não,Não,Não,Moderado,Não,113.1,1.63,42.6,Risco
+Ana Moreira,47,Feminino,Não,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,99.1,Não,Não,Sim,Moderado,Não,78.0,1.68,27.6,Sem Risco
+Carlos Silva,48,Masculino,Sim,Sim,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,97.6,Não,Sim,Não,Moderado,Não,91.6,1.87,26.2,Risco
+André Ribeiro,49,Feminino,Não,Não,Baixo,Média,Não,Baixo,Não,Sim,Não,Não,95.6,Não,Não,Não,Moderado,Não,88.9,1.62,33.9,Sem Risco
+Camila Souza,39,Masculino,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,92.9,Não,Não,Não,Baixo,Não,76.8,1.72,26.0,Sem Risco
+Fernanda Souza,65,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Sim,Não,98.0,Não,Não,Não,Moderado,Não,60.1,1.79,18.8,Sem Risco
+Carlos Freitas,46,Outro,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Sim,Não,97.8,Não,Não,Não,Moderado,Não,73.0,1.77,23.3,Sem Risco
+André Costa,43,Não declarado,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,95.6,Não,Não,Não,Baixo,Não,73.1,1.74,24.1,Sem Risco
+Fernanda Pereira,46,Não declarado,Não,Não,Baixo,Baixa,Não,Moderado,Não,Não,Sim,Não,98.7,Não,Não,Não,Moderado,Não,84.6,1.86,24.5,Sem Risco
+Carlos Araújo,26,Masculino,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,96.1,Não,Sim,Não,Moderado,Não,64.5,1.55,26.8,Sem Risco
+João Oliveira,26,Não declarado,Não,Sim,Alto,Média,Não,Moderado,Não,Não,Não,Não,96.9,Não,Não,Não,Alto,Não,78.3,,,Sem Risco
+Lucas Oliveira,54,Masculino,Sim,Não,Baixo,Baixa,Não,Baixo,Sim,Sim,Não,Não,96.2,Não,Não,Sim,Alto,Não,60.4,1.55,25.1,Risco
+Ana Ribeiro,77,Não declarado,Sim,Sim,Moderado,Baixa,Não,Baixo,Não,Não,Sim,Não,92.4,Não,Não,Não,Baixo,Não,67.3,1.67,24.1,Risco
+Fernanda Ribeiro,60,Masculino,Sim,Não,Alto,Baixa,Não,Alto,Não,Não,Não,Não,98.1,Não,Não,Não,Moderado,Não,69.7,1.77,22.2,Sem Risco
+Luiza Santos,46,Outro,Não,Não,Moderado,Alta,Não,Alto,Sim,Não,Não,Não,93.9,Não,Não,Não,Alto,Não,93.2,1.51,40.9,Sem Risco
+Gabriel Barbosa,60,Masculino,Não,Sim,Baixo,Baixa,Não,Baixo,Não,Não,Não,Não,97.3,Não,Não,Não,Baixo,Sim,66.8,1.66,24.2,Sem Risco
+Maria Silva,30,Feminino,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.5,Não,Não,Não,Alto,Não,,1.77,,Sem Risco
+Gabriel Rodrigues,45,Outro,Sim,Não,Moderado,Baixa,Não,Alto,Não,Não,Não,Não,97.0,Não,Não,Não,Baixo,Não,68.8,1.66,25.0,Sem Risco
+Pedro Rodrigues,54,Feminino,Não,Não,Moderado,Baixa,Não,Alto,Não,Sim,Não,Não,97.5,Sim,Não,Não,Moderado,Não,81.7,1.98,20.8,Sem Risco
+Ana Martins,18,Não declarado,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Não,Não,92.2,Não,Não,Não,Baixo,Não,70.6,1.82,21.3,Sem Risco
+Rafael Martins,38,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,97.7,Não,Sim,Não,Moderado,Não,87.9,1.81,26.8,Sem Risco
+Camila Pereira,40,Masculino,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,94.6,Não,Não,Não,Baixo,Não,94.4,1.8,29.1,Sem Risco
+Luiza Souza,37,Não declarado,Não,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.5,Sim,Não,Sim,Moderado,Não,70.1,1.8,21.6,Sem Risco
+Tiago Moura,63,Não declarado,Não,Não,Moderado,Alta,Não,Moderado,Não,Não,Não,Sim,95.4,Não,Não,Não,Baixo,Não,77.5,1.89,21.7,Sem Risco
+Beatriz Freitas,60,Feminino,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,97.7,Não,Não,Não,Moderado,Não,109.7,1.75,35.8,Risco
+Larissa Araújo,44,Não declarado,Não,Não,Alto,Média,Não,Baixo,Sim,Não,Não,Não,96.7,Não,Não,Não,Baixo,Não,68.7,1.78,21.7,Sem Risco
+Felipe Santos,49,Outro,Sim,Sim,Moderado,Média,Sim,Moderado,Sim,Sim,Não,Sim,96.6,Não,Não,Não,Baixo,Não,69.2,1.62,26.4,Risco
+João Nunes,46,Feminino,Não,Não,Moderado,Baixa,Não,Baixo,Não,Não,Não,Não,98.9,Não,Não,Sim,Baixo,Não,98.2,,,Sem Risco
+Gabriel Nunes,37,Masculino,Sim,Não,Baixo,Média,Não,Moderado,Sim,Não,Não,Não,94.8,Não,Não,Não,Baixo,Não,40.2,1.73,13.4,Risco
+Camila Alves,36,Não declarado,Não,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,Sim,98.1,Não,Não,Sim,Alto,Não,63.0,1.84,18.6,Sem Risco
+Lucas Moreira,84,Masculino,Não,Não,Moderado,Média,Não,Moderado,Não,Sim,Não,Não,,Não,Não,Não,Baixo,Não,75.2,1.72,25.4,Sem Risco
+João Pereira,75,Não declarado,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,95.8,Não,Não,Não,Alto,Sim,109.7,1.75,35.8,Risco
+Larissa Pereira,40,Não declarado,Sim,Não,Baixo,Baixa,Não,Alto,Não,Não,Sim,Não,95.6,Não,Não,Sim,Moderado,Não,73.9,1.74,24.4,Sem Risco
+Gabriel Alves,27,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,98.0,Não,Não,Sim,Alto,Não,87.6,1.78,27.6,Sem Risco
+Maria Nunes,53,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,,Não,Não,Sim,Baixo,Sim,93.7,1.73,31.3,Sem Risco
+Gustavo Alves,41,Não declarado,Sim,Não,Baixo,Baixa,Não,Moderado,Sim,Não,Não,Não,95.2,Não,Não,Não,Baixo,Não,108.4,1.69,38.0,Sem Risco
+Tiago Moura,18,Não declarado,Não,Não,Baixo,Média,Não,Moderado,Sim,Não,Sim,Não,97.0,Não,Sim,Sim,Baixo,Não,77.9,1.58,31.2,Sem Risco
+Felipe Gomes,40,Não declarado,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,101.2,Não,Não,Sim,Alto,Não,83.8,1.62,31.9,Sem Risco
+João Souza,40,Masculino,Sim,Não,Moderado,Alta,Não,Baixo,Não,Não,Sim,Sim,97.8,Não,Não,Não,Moderado,Não,80.8,1.69,28.3,Sem Risco
+Paula Moreira 12,57,Outro,Não,Não,Baixo,Média,Não,Alto,Não,Não,Sim,Não,96.9,Não,Sim,Não,Baixo,Não,65.9,1.86,19.0,Sem Risco
+André Moreira,49,Não declarado,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,96.5,Não,Não,Sim,Baixo,Não,95.8,1.83,28.6,Sem Risco
+Gabriel Rodrigues,55,Feminino,Não,Não,Moderado,Média,Não,Baixo,Não,Não,Não,Não,97.0,Não,Não,Não,Baixo,Não,91.5,1.52,39.6,Sem Risco
+Felipe Gomes,52,Não declarado,Sim,Sim,Baixo,Média,Sim,Alto,Não,Não,Sim,Não,100.3,Não,Não,Não,Baixo,Não,90.1,1.71,30.8,Risco
+Beatriz Moura,47,Feminino,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.8,Não,Não,Não,Moderado,Não,54.5,1.71,18.6,Sem Risco
+João Gomes,42,Outro,Não,Não,Moderado,Média,Não,Alto,Não,Não,Não,Sim,94.7,Não,Não,Não,Alto,Sim,63.4,1.71,21.7,Sem Risco
+Paula Nunes,46,Masculino,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,95.3,Não,Não,Não,Moderado,Não,64.6,1.81,19.7,Sem Risco
+Maria Pereira,39,Não declarado,Sim,Não,Baixo,Baixa,Não,Moderado,Não,Não,Não,Não,98.9,Não,Não,Não,Alto,Não,76.4,1.63,28.8,Sem Risco
+Ana Ribeiro,45,Feminino,Sim,Não,Baixo,Média,Não,Moderado,Não,Não,Não,Não,97.9,Não,Não,Não,Moderado,Não,91.1,1.77,29.1,Sem Risco
+Ana Martins,19,Feminino,Sim,Não,Moderado,Baixa,Sim,Moderado,Não,Não,Não,,99.3,Não,Não,Não,Baixo,Sim,115.7,1.64,43.0,Risco
+Gabriel Souza,37,Masculino,Não,Sim,Moderado,Alta,Não,Moderado,Não,Não,Não,Não,95.1,Não,Não,Não,Moderado,Não,61.9,1.66,22.5,Sem Risco
+Tiago Souza,24,Não declarado,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,93.8,Não,Não,Não,Moderado,Não,75.1,1.73,25.1,Sem Risco
+Felipe Dias,76,Feminino,Sim,Não,Alto,Alta,Não,Moderado,Não,Não,Sim,Não,94.3,Não,Sim,Sim,Baixo,Não,50.6,1.73,16.9,Risco
+Larissa Silva,49,Masculino,Não,Não,Baixo,Média,Não,Baixo,Não,Não,Sim,Não,98.2,Não,Não,Não,Moderado,Não,74.9,1.65,27.5,Sem Risco
+Paula Barbosa,57,Não declarado,Sim,Não,Moderado,Alta,Não,Alto,Não,Não,Sim,Não,102.4,Não,Sim,Não,Alto,Não,70.9,1.73,23.7,Risco
+André Pereira,80,Feminino,Não,Não,Baixo,Baixa,Não,Moderado,Não,Sim,Não,Não,94.3,Não,Não,Não,Baixo,Sim,76.5,1.9,21.2,Risco
+Lucas Souza,24,Outro,Não,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Sim,95.6,Não,Sim,Não,Baixo,Não,84.6,1.7,29.3,Sem Risco
+André Martins,45,Feminino,Não,Não,Alto,Baixa,Não,Alto,Não,Não,Sim,Não,97.6,Não,Não,Não,Moderado,Não,67.1,1.61,25.9,Sem Risco
+Rafael Martins,43,Outro,Não,Não,Baixo,Baixa,Não,Alto,Não,Não,Não,Não,98.8,Não,Não,Não,Moderado,Não,51.0,1.71,17.4,Sem Risco
+Felipe Lima,49,Outro,Não,Não,Alto,Média,Sim,Baixo,Não,Sim,Não,Sim,98.8,Não,Não,Não,Baixo,Não,90.2,1.74,29.8,Sem Risco
+Paula Gomes,62,Feminino,Não,Não,Baixo,Média,Não,Moderado,Não,Não,Sim,Não,93.0,Não,Não,Não,Moderado,Não,79.8,1.59,31.6,Sem Risco
+Carlos Costa,54,Outro,Não,Não,Moderado,Média,Não,Moderado,Não,Não,Não,Não,95.8,Não,Não,Não,Baixo,Não,99.4,2.0,24.9,Sem Risco
+Beatriz Lima,62,Feminino,Não,Não,Moderado,Alta,Não,Baixo,Não,Não,Não,Não,94.1,Não,Não,Sim,Moderado,Sim,88.5,1.55,36.8,Risco
+André Moreira,52,Outro,Não,Não,Baixo,Média,Não,Moderado,Não,Sim,Não,Não,97.8,Não,Não,Não,Alto,Não,90.8,1.82,27.4,Sem Risco
+Ana Rodrigues,36,Não declarado,Sim,Não,Alto,Média,Não,Moderado,Não,Não,Não,Não,96.6,Não,Não,Não,Baixo,Não,65.4,1.67,23.5,Sem Risco
+Paula Ferreira,30,Não declarado,Sim,Não,Moderado,Média,Não,Alto,Não,Não,Sim,Sim,99.7,Não,Não,Não,Moderado,Não,59.7,1.63,22.5,Sem Risco
+João Nunes,62,Não declarado,Sim,Não,Alto,Média,Não,Moderado,Não,Sim,Não,Sim,99.3,Não,Sim,Não,Baixo,Não,49.9,1.84,14.7,Risco
+Lucas Santos,43,Feminino,Sim,Não,Moderado,Média,Não,Alto,Não,Não,Não,Não,96.7,Não,Não,Não,Baixo,Não,111.0,1.63,41.8,Sem Risco
+Rafael Pereira,26,Outro,Sim,Não,Baixo,Alta,Não,Moderado,Não,Não,Não,Não,96.8,Não,Não,Não,Baixo,Não,90.3,1.81,27.6,Sem Risco
+Lucas Santos,29,Outro,Sim,Não,Baixo,Alta,Sim,Alto,Não,Não,Sim,Não,94.3,Não,Não,Sim,Alto,Não,107.5,1.59,42.5,Risco
+Carlos Moreira,61,Não declarado,Sim,Não,Moderado,Baixa,Não,Moderado,Não,Não,Não,Não,97.5,Não,Não,Sim,Baixo,Não,74.3,1.6,29.0,Sem Risco
