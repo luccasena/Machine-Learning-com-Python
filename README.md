@@ -35,3 +35,11 @@ Bootcamp na DIO **(Gratuito)** - Santander 2025 - Ciência de Dados com Python: 
 Data Science Academy **(Gratuito)** - Cursos Gratuitos : <a href="https://www.datascienceacademy.com.br/cursosgratuitos?msg=not-logged-in">Clique aqui</a>
 
 ---
+
+### 🔎 Possíveis Soluções para o Desafio Final
+
+1. Banco Box; <a href="desafio_final/banco_box.ipynb">Clique aqui</a>
+
+2. Academia RedFit; <a href="desafio_final/academia_redfit.ipynb">Clique aqui</a>
+
+3. Prever Câncer de Pulmão; <a href="desafio_final/pneumologista.ipynb">Clique aqui</a>
